@@ -1,0 +1,1006 @@
+[
+  {
+    "bot_percentage": 0, 
+    "profileimage": "http://pbs.twimg.com/profile_images/822547732376207360/5g0FC8XX_400x400.jpg"
+  }, 
+  {
+    "rating": -0.1777777777777778, 
+    "text": "RT @ObamaFoundation: This week\u201450 years since Dr. Martin Luther King, Jr. was killed\u2014@BarackObama and @RepJohnLewis sat down with a group o\u2026", 
+    "ts": 1522832758.0
+  }, 
+  {
+    "rating": 0.13333333333333333, 
+    "text": "Incredible to have a Chicago team in the Final Four. I\u2019ll take that over an intact bracket any day! Congratulations\u2026 https://t.co/V9IbaSlbIp", 
+    "ts": 1521972271.0
+  }, 
+  {
+    "rating": 0.1, 
+    "text": "Michelle and I are so inspired by all the young people who made today\u2019s marches happen. Keep at it. You\u2019re leading\u2026 https://t.co/d0DTg594Cs", 
+    "ts": 1521891467.0
+  }, 
+  {
+    "rating": 0.375, 
+    "text": "Our most important task as a nation is to make sure all our young people can achieve their dreams. We\u2019ve started th\u2026 https://t.co/gNw9ks6pMY", 
+    "ts": 1521476298.0
+  }, 
+  {
+    "rating": 0.1, 
+    "text": "In Singapore with young people who are advocating for education, empowering young women, and getting involved all o\u2026 https://t.co/V5uHCeMWUa", 
+    "ts": 1521452402.0
+  }, 
+  {
+    "rating": 0.0, 
+    "text": "41: I like the competition. And the loyalty to the home team. - 44 https://t.co/XG3ChMtW0M", 
+    "ts": 1521139938.0
+  }, 
+  {
+    "rating": 0.0, 
+    "text": "Congrats to @LoyolaChicago and Sister Jean for a last-second upset - I had faith in my pick!", 
+    "ts": 1521135962.0
+  }, 
+  {
+    "rating": 0.22916666666666666, 
+    "text": "Just because I have more time to watch games doesn\u2019t mean my picks will be better, but here are my brackets this ye\u2026 https://t.co/gWpZwlceV3", 
+    "ts": 1521038579.0
+  }, 
+  {
+    "rating": 0.3, 
+    "text": "Have fun out there among the stars. https://t.co/S285MTwGtp", 
+    "ts": 1521019739.0
+  }, 
+  {
+    "rating": 0.0, 
+    "text": "Four years ago, @MichelleObama and I had the privilege to host Lt. Cmdr. Dan Cnossen and his fellow Paralympians an\u2026 https://t.co/kneWyU2Tu1", 
+    "ts": 1520858561.0
+  }, 
+  {
+    "rating": 0.3, 
+    "text": "I got my start holding community meetings in Chicago, so it was fun to be home for one tonight. Michelle and I want\u2026 https://t.co/1ammpZayJx", 
+    "ts": 1519766921.0
+  }, 
+  {
+    "rating": 0.4228571428571429, 
+    "text": "Young people have helped lead all our great movements. How inspiring to see it again in so many smart, fearless stu\u2026 https://t.co/wXO3wBtJ8V", 
+    "ts": 1519295444.0
+  }, 
+  {
+    "rating": 0.15, 
+    "text": "Billy Graham was a humble servant who prayed for so many - and who, with wisdom and grace, gave hope and guidance t\u2026 https://t.co/V8WtgIRPEB", 
+    "ts": 1519210984.0
+  }, 
+  {
+    "rating": 0.25, 
+    "text": "We are grieving with Parkland. But we are not powerless. Caring for our kids is our first job. And until we can hon\u2026 https://t.co/LWGSkzRapH", 
+    "ts": 1518694937.0
+  }, 
+  {
+    "rating": 0.65, 
+    "text": "Happy Valentine\u2019s Day, @MichelleObama. You make every day and every place better. https://t.co/aWvyytR7Mm", 
+    "ts": 1518605703.0
+  }, 
+  {
+    "rating": 0.2041666666666667, 
+    "text": "RT @MichelleObama: Happy #ValentinesDay to my one and only, @BarackObama. To celebrate the occasion, I\u2019m dedicating a little Valentine\u2019s Da\u2026", 
+    "ts": 1518605662.0
+  }, 
+  {
+    "rating": -0.25, 
+    "text": "Dr. King was 26 when the Montgomery bus boycott began. He started small, rallying others who believed their efforts\u2026 https://t.co/N0zwBg7gTi", 
+    "ts": 1516007762.0
+  }, 
+  {
+    "rating": 0.0, 
+    "text": "All across America people chose to get involved, get engaged and stand up. Each of us can make a difference, and al\u2026 https://t.co/zxpKVnNeHZ", 
+    "ts": 1514544071.0
+  }, 
+  {
+    "rating": 0.35, 
+    "text": "Ten-year-old Jahkil Jackson is on a mission to help homeless people in Chicago. He created kits full of socks, toil\u2026 https://t.co/7mNk6dmnyC", 
+    "ts": 1514544036.0
+  }, 
+  {
+    "rating": 0.1, 
+    "text": "Chris Long gave his paychecks from the first six games of the NFL season to fund scholarships in Charlottesville, V\u2026 https://t.co/KxUk5Wle6h", 
+    "ts": 1514544004.0
+  }, 
+  {
+    "rating": 0.0, 
+    "text": "Kat Creech, a wedding planner in Houston, turned a postponed wedding into a volunteer opportunity for Hurricane Har\u2026 https://t.co/MCXiSuAVJN", 
+    "ts": 1514543971.0
+  }, 
+  {
+    "rating": -0.23973063973063968, 
+    "text": "As we count down to the new year, we get to reflect and prepare for what\u2019s ahead. For all the bad news that seemed\u2026 https://t.co/WaUHkVww2g", 
+    "ts": 1514543944.0
+  }, 
+  {
+    "rating": 0.11818181818181818, 
+    "text": "RT @MBK_Alliance: I am my Brother\u2019s Keeper. \nWatch our new PSA with @BarackObama, @StephenCurry30 &amp; @chancetherapper, then take action to s\u2026", 
+    "ts": 1514388772.0
+  }, 
+  {
+    "rating": 0.8, 
+    "text": "On behalf of the Obama family, Merry Christmas! We wish you joy and peace this holiday season. https://t.co/CNFUZrhrBj", 
+    "ts": 1514198105.0
+  }, 
+  {
+    "rating": 0.18333333333333335, 
+    "text": "There's no better time than the holiday season to reach out and give back to our communities. Great to hear from yo\u2026 https://t.co/gp5dCy9oN2", 
+    "ts": 1513271353.0
+  }, 
+  {
+    "rating": 0.8, 
+    "text": "Happy Hanukkah, everybody, from the Obama family to yours. Chag Sameach!", 
+    "ts": 1513104440.0
+  }, 
+  {
+    "rating": 0.10416666666666666, 
+    "text": "Just got off a call to thank folks who are working hard to help more Americans across the country sign up for healt\u2026 https://t.co/A9QvCySWJ8", 
+    "ts": 1513003589.0
+  }, 
+  {
+    "rating": 0.11818181818181818, 
+    "text": "RT @ObamaFoundation: Watch: We hosted a Town Hall in New Delhi with @BarackObama and young leaders about how to drive change and make an im\u2026", 
+    "ts": 1512408467.0
+  }, 
+  {
+    "rating": 0.7, 
+    "text": "Michelle and I are delighted to congratulate Prince Harry and Meghan Markle on their engagement. We wish you a life\u2026 https://t.co/KC9nmjZPuX", 
+    "ts": 1511797430.0
+  }, 
+  {
+    "rating": 0.65, 
+    "text": "From the Obama family to yours, we wish you a Happy Thanksgiving full of joy and gratitude. https://t.co/xAvSQwjQkz", 
+    "ts": 1511428467.0
+  }, 
+  {
+    "rating": 0.8, 
+    "text": "ME:  Joe, about halfway through the speech, I\u2019m gonna wish you a happy birth--\nBIDEN:  IT\u2019S MY BIRTHDAY!\nME:  Joe.\u2026 https://t.co/5qLUsDoaMi", 
+    "ts": 1511184731.0
+  }, 
+  {
+    "rating": 0.0, 
+    "text": "RT @ObamaFoundation: Today, we honor those who have honored our country with its highest form of service. https://t.co/IbJNCwIofL https://t\u2026", 
+    "ts": 1510393426.0
+  }, 
+  {
+    "rating": 0.0, 
+    "text": "This is what happens when the people vote. Congrats @RalphNortham and @PhilMurphyNJ . And congratulations to all th\u2026 https://t.co/ZvUKZIDGAj", 
+    "ts": 1510127721.0
+  }, 
+  {
+    "rating": 0.0, 
+    "text": "Every election matters - those who show up determine our future. Go vote tomorrow! https://t.co/j1wh8hLamw", 
+    "ts": 1509996737.0
+  }, 
+  {
+    "rating": 0.15000000000000002, 
+    "text": "May God also grant all of us the wisdom to ask what concrete steps we can take to reduce the violence and weaponry in our midst.", 
+    "ts": 1509909692.0
+  }, 
+  {
+    "rating": 0.0, 
+    "text": "We grieve with all the families in Sutherland Springs harmed by this act of hatred, and we\u2019ll stand with the survivors as they recover...", 
+    "ts": 1509909669.0
+  }, 
+  {
+    "rating": 0.0, 
+    "text": "Starting today, you can sign up for 2018 health coverage. Head on over to https://t.co/ob1Ynoesod and find a plan t\u2026 https://t.co/6eN1Y5TQGV", 
+    "ts": 1509521819.0
+  }, 
+  {
+    "rating": 0.08249158249158249, 
+    "text": "Michelle and I are thinking of the victims of today's attack in NYC and everyone who keeps us safe. New Yorkers are as tough as they come.", 
+    "ts": 1509478004.0
+  }, 
+  {
+    "rating": 0.6, 
+    "text": "Hello, #ObamaSummit! Thrilled to host civic leaders in Chicago from all over the world. Follow along at @ObamaFoundation.", 
+    "ts": 1509379572.0
+  }, 
+  {
+    "rating": -0.5, 
+    "text": "I\u2019ll let you and @ladygaga handle the singing, and we\u2019ll handle the donations. There\u2019s still time to give:\u2026 https://t.co/0NnaR3bozh", 
+    "ts": 1508776421.0
+  }, 
+  {
+    "rating": 0.0, 
+    "text": "Tonight the ex-Presidents are getting together in Texas to support all our fellow Americans rebuilding from this ye\u2026 https://t.co/nFSou6JC6n", 
+    "ts": 1508610728.0
+  }, 
+  {
+    "rating": 0.0, 
+    "text": "I'm grateful to @SenJohnMcCain for his lifetime of service to our country. Congratulations, John, on receiving this year's Liberty Medal.", 
+    "ts": 1508174940.0
+  }, 
+  {
+    "rating": 0.0, 
+    "text": "Michelle &amp; I are praying for the victims in Las Vegas. Our thoughts are with their families &amp; everyone enduring another senseless tragedy.", 
+    "ts": 1506928276.0
+  }, 
+  {
+    "rating": 0.9, 
+    "text": "Proud to cheer on Team USA at the Invictus Games today with my friend Joe. You represent the best of our country. https://t.co/WBzcltmgqj", 
+    "ts": 1506718328.0
+  }, 
+  {
+    "rating": 0.2857142857142857, 
+    "text": "We're expanding our efforts to help Puerto Rico &amp; the USVI, where our fellow Americans need us right now. Join us a\u2026 https://t.co/gkrp1RwXR4", 
+    "ts": 1506425635.0
+  }, 
+  {
+    "rating": 0.5, 
+    "text": "Prosecutor, soldier, family man, citizen. Beau made us want to be better. What a legacy to leave. What a testament\u2026 https://t.co/XDtkLu32wd", 
+    "ts": 1506362796.0
+  }, 
+  {
+    "rating": 0.0, 
+    "text": "RT @gatesfoundation: President @BarackObama addresses #Goalkeepers17 starting at 12:40 PM. Tune in here: https://t.co/XmHBErSHYw", 
+    "ts": 1505905354.0
+  }, 
+  {
+    "rating": 0.0, 
+    "text": "Thinking about our neighbors in Mexico and all our Mexican-American friends tonight. Cuidense mucho y un fuerte abrazo para todos.", 
+    "ts": 1505854852.0
+  }, 
+  {
+    "rating": 0.35, 
+    "text": "Coding is important \u2013 and fun. @CSforAll, thanks for your work to make sure every kid can compete in a high-tech, g\u2026 https://t.co/xwlnvxsjKb", 
+    "ts": 1505745478.0
+  }, 
+  {
+    "rating": 0.0, 
+    "text": "Michelle and I want the @ObamaFoundation to inspire and empower people to change the world. Here's how we're gettin\u2026 https://t.co/xY0UhBSvqp", 
+    "ts": 1505291939.0
+  }, 
+  {
+    "rating": 0.0, 
+    "text": "We remember everyone we lost on 9/11 and honor all who defend our country and our ideals. No act of terror will ever change who we are.", 
+    "ts": 1505124171.0
+  }, 
+  {
+    "rating": 0.0, 
+    "text": "RT @GeorgeHWBush: Across the U.S., Americans have answered the call to help with hurricane recovery. Praying for all Floridians. #Irma http\u2026", 
+    "ts": 1505039166.0
+  }, 
+  {
+    "rating": 0.3, 
+    "text": "Proud of these McKinley Tech students\u2014inspiring young minds that make me hopeful about our future. https://t.co/nqYC1mjjTB", 
+    "ts": 1504886663.0
+  }, 
+  {
+    "rating": 0.0, 
+    "text": "Americans always answer the call. https://t.co/SV1jixOExu https://t.co/ktEvL6s89d", 
+    "ts": 1504805808.0
+  }, 
+  {
+    "rating": -0.3, 
+    "text": "To target hopeful young strivers who grew up here is wrong, because they\u2019ve done nothing wrong. My statement: https://t.co/TCxZdld7L4", 
+    "ts": 1504617721.0
+  }, 
+  {
+    "rating": 0.0625, 
+    "text": "Thank you to all the first responders and people helping each other out. That's what we do as Americans. Here's one\u2026 https://t.co/I3RHWyZe31", 
+    "ts": 1503855863.0
+  }, 
+  {
+    "rating": 0.0, 
+    "text": "Michelle and I are thinking of the victims and their families in Barcelona. Americans will always stand with our Spanish friends. Un abrazo.", 
+    "ts": 1502977511.0
+  }, 
+  {
+    "rating": 0.22000000000000003, 
+    "text": "\"...For love comes more naturally to the human heart than its opposite.\" - Nelson Mandela", 
+    "ts": 1502562999.0
+  }, 
+  {
+    "rating": -0.3666666666666667, 
+    "text": "\"People must learn to hate, and if they can learn to hate, they can be taught to love...\"", 
+    "ts": 1502562987.0
+  }, 
+  {
+    "rating": 0.0, 
+    "text": "\"No one is born hating another person because of the color of his skin or his background or his religion...\" https://t.co/InZ58zkoAm", 
+    "ts": 1502562969.0
+  }, 
+  {
+    "rating": 0.0, 
+    "text": "John McCain is an American hero &amp; one of the bravest fighters I've ever known. Cancer doesn't know what it's up against. Give it hell, John.", 
+    "ts": 1500491942.0
+  }, 
+  {
+    "rating": 0.0, 
+    "text": "Health care has always been about something bigger than politics: it's about the character of our country. https://t.co/UqLO14Hef7", 
+    "ts": 1498140668.0
+  }, 
+  {
+    "rating": 0.4083333333333333, 
+    "text": "Of all that I've done in my life, I'm most proud to be Sasha and Malia's dad. To all those lucky enough to be a dad\u2026 https://t.co/XSqMhcSuvR", 
+    "ts": 1497778760.0
+  }, 
+  {
+    "rating": 0.0, 
+    "text": "On this National Gun Violence Awareness Day, let your voice be heard and show your commitment to reducing gun viole\u2026 https://t.co/S7dth6Ywb0", 
+    "ts": 1496405154.0
+  }, 
+  {
+    "rating": 0.0, 
+    "text": "Forever grateful for the service and sacrifice of all who fought to protect our freedoms and defend this country we\u2026 https://t.co/BwRS0onlOL", 
+    "ts": 1496043556.0
+  }, 
+  {
+    "rating": 0.7, 
+    "text": "Good to see my friend Prince Harry in London to discuss the work of our foundations &amp; offer condolences to victims\u2026 https://t.co/f1U8It8AmE", 
+    "ts": 1495871125.0
+  }, 
+  {
+    "rating": 0.5, 
+    "text": "Through faith, love, and resolve the character of the people of Manchester has shown itself.  Our thoughts &amp; prayer\u2026 https://t.co/xyMer891Zo", 
+    "ts": 1495701815.0
+  }, 
+  {
+    "rating": -0.2, 
+    "text": "Our hearts go out to those killed and wounded in Manchester. Americans will always stand shoulder to shoulder with the people of the UK.", 
+    "ts": 1495538774.0
+  }, 
+  {
+    "rating": 0.375, 
+    "text": "Excited to hear from Sierra, Imani, Filiz, and Benedikt who are making a difference at home and abroad. See you in\u2026 https://t.co/bF1kB1GvxC", 
+    "ts": 1495467983.0
+  }, 
+  {
+    "rating": 0.7666666666666666, 
+    "text": "Happy Mother's Day to my love and partner on this journey @MichelleObama, and to all the wonderful, hardworking mothers out there.", 
+    "ts": 1494750676.0
+  }, 
+  {
+    "rating": 0.0, 
+    "text": "We're rolling up our sleeves again, back where it all started. Join us at https://t.co/GYkEOK8EuT. https://t.co/UlyvNrQvZR", 
+    "ts": 1493820736.0
+  }, 
+  {
+    "rating": -0.020833333333333343, 
+    "text": "Well said, Jimmy. That's exactly why we fought so hard for the ACA, and why we need to protect it for kids like Bil\u2026 https://t.co/jB3LXT94Ok", 
+    "ts": 1493725766.0
+  }, 
+  {
+    "rating": 0.85, 
+    "text": "RT @ObamaFoundation: It\u2019s a beautiful day on the South Side. https://t.co/PtoaFbww0s", 
+    "ts": 1493043497.0
+  }, 
+  {
+    "rating": 0.0, 
+    "text": "My heart goes out to the victims and their families in London. No act of terror can shake the strength and resilience of our British ally.", 
+    "ts": 1490254220.0
+  }, 
+  {
+    "rating": 0.7, 
+    "text": "Chuck Berry rolled over everyone who came before him \u2013 and turned up everyone who came after.  We'll miss you, Chuck.  Be good.", 
+    "ts": 1489918883.0
+  }, 
+  {
+    "rating": 0.0, 
+    "text": "On International Women\u2019s Day, @MichelleObama and I are inspired by all of you who embrace your power to drive chang\u2026 https://t.co/Er9mIQlmgr", 
+    "ts": 1488987898.0
+  }, 
+  {
+    "rating": 0.25, 
+    "text": "RT @ObamaFoundation: Courage comes in many forms. Who in your local community or neighborhood leads by example? #ProfileInCourage https://t\u2026", 
+    "ts": 1488461404.0
+  }, 
+  {
+    "rating": 0.0, 
+    "text": "Humbled to be recognized by a family with a legacy of service. Who's your #ProfileInCourage? Tell me about them:\u2026 https://t.co/25Ohhab8Xn", 
+    "ts": 1488448327.0
+  }, 
+  {
+    "rating": 0.0, 
+    "text": "We asked. You answered. https://t.co/mAJvko6VqR", 
+    "ts": 1487340475.0
+  }, 
+  {
+    "rating": 0.4681818181818182, 
+    "text": "Happy Valentine\u2019s Day, @michelleobama! Almost 28 years with you, but it always feels new. https://t.co/O0UhJWoqGN", 
+    "ts": 1487066687.0
+  }, 
+  {
+    "rating": 0.4642857142857143, 
+    "text": "I read letters like these every single day. It was one of the best parts of the job \u2013 hearing from you. https://t.co/so1luBcszV", 
+    "ts": 1485088622.0
+  }, 
+  {
+    "rating": 0.0, 
+    "text": "RT @ObamaFoundation: Add your voice: https://t.co/mA9MSHmi7o https://t.co/Uf7oEvkZF3", 
+    "ts": 1484927221.0
+  }, 
+  {
+    "rating": 0.0, 
+    "text": "In the meantime, I want to hear what you're thinking about the road ahead. So share your ideas with me here: https://t.co/GYkEOK8EuT", 
+    "ts": 1484926504.0
+  }, 
+  {
+    "rating": 0.17708333333333331, 
+    "text": "Hi everybody! Back to the original handle. Is this thing still on? Michelle and I are off on a quick vacation, then we\u2019ll get back to work.", 
+    "ts": 1484926448.0
+  }, 
+  {
+    "rating": 0.0, 
+    "text": "Tonight, President Obama reflects on eight years of progress. Watch the #FarewellAddress at 9 pm ET: https://t.co/ZnwTsg155B #ObamaFarewell", 
+    "ts": 1484072054.0
+  }, 
+  {
+    "rating": 0.35, 
+    "text": "RT @OFA: \"Thanks to the Affordable Care Act, your coverage is better today than it was before.\"\n\nWatch the weekly address: https://t.co/Pfk\u2026", 
+    "ts": 1478343673.0
+  }, 
+  {
+    "rating": 0.0, 
+    "text": "In the weekly address, President Obama discusses what #Obamacare has done to improve health care. https://t.co/VdQlyrSZhx", 
+    "ts": 1478340533.0
+  }, 
+  {
+    "rating": 0.5, 
+    "text": "Let's keep working to keep our economy on a better, stronger course. https://t.co/bV2BVjyj7a", 
+    "ts": 1478277974.0
+  }, 
+  {
+    "rating": 0.0, 
+    "text": "The landmark #ParisAgreement enters into force today\u2014we must keep up the momentum to #ActOnClimate. https://t.co/Cyw5Udaoro", 
+    "ts": 1478264116.0
+  }, 
+  {
+    "rating": -0.25, 
+    "text": "The economy added 161,000 jobs in October, and wages are up 2.8 percent over the past year. https://t.co/pJxjgLnjCt #JobsReport", 
+    "ts": 1478256132.0
+  }, 
+  {
+    "rating": 1.0, 
+    "text": "There are a lot of plans out there. Check your options and lock in the one that's best for you: https://t.co/buFY9ozDz4 #GetCovered", 
+    "ts": 1478187156.0
+  }, 
+  {
+    "rating": 0.18181818181818182, 
+    "text": "The positive impact of #Obamacare is undeniable, but there's one big factor holding many states back: https://t.co/7XebIdRX34", 
+    "ts": 1478180329.0
+  }, 
+  {
+    "rating": 0.4, 
+    "text": "RT @POTUS: It happened: @Cubs win World Series. That's change even this South Sider can believe in. Want to come to the White House before\u2026", 
+    "ts": 1478173920.0
+  }, 
+  {
+    "rating": 0.5, 
+    "text": "Tens of millions of Americans have benefited from #Obamacare. Make sure you're one of them. #GetCovered https://t.co/e1KoXcPtpU", 
+    "ts": 1478091163.0
+  }, 
+  {
+    "rating": 0.3666666666666667, 
+    "text": "Thanks to #Obamacare, quality health care is available to everyone. The marketplace is now open\u2014make sure you and y\u2026 https://t.co/89gl6pzMGD", 
+    "ts": 1478079814.0
+  }, 
+  {
+    "rating": 0.0, 
+    "text": "RT @lacasablanca: La t\u00edpica Latina tarda 22 meses en ganar lo que un hombre blanco gana en 12 meses. Tenemos que cerrar la brecha salarial.\u2026", 
+    "ts": 1478025941.0
+  }, 
+  {
+    "rating": 0.0, 
+    "text": "RT @WhiteHouse: On #LatinaEqualPay Day, we mark the work that remains to ensure that all Americans receive equal pay for equal work. https:\u2026", 
+    "ts": 1478019374.0
+  }, 
+  {
+    "rating": 0.0, 
+    "text": "Community organizing never goes out of style. Shop now: https://t.co/LXEbQdKLLT https://t.co/E56ofoU36i", 
+    "ts": 1478011655.0
+  }, 
+  {
+    "rating": 0.0, 
+    "text": "With #Obamacare, people can focus on treatment for pre-existing conditions without the fear of coverage being cappe\u2026 https://t.co/jvdFY87XBu", 
+    "ts": 1478003130.0
+  }, 
+  {
+    "rating": 0.0, 
+    "text": "The Obamacare marketplace is now open. If you're uninsured, now is the time to shop for a plan and #GetCovered.\u2026 https://t.co/Spjlga4eTT", 
+    "ts": 1477995849.0
+  }, 
+  {
+    "rating": 0.0, 
+    "text": "RT @FLOTUS: Open enrollment starts tomorrow! Check out your options at https://t.co/dg57hwz5of and share your #GetCovered story. https://t.\u2026", 
+    "ts": 1477932452.0
+  }, 
+  {
+    "rating": 0.0, 
+    "text": "Lions and Tiggers and bears! Oh my! #HappyHalloween https://t.co/iU4fjBhi0Y", 
+    "ts": 1477931950.0
+  }, 
+  {
+    "rating": 0.0, 
+    "text": "Usted y su familia merecen la tranquilidad de saber que est\u00e1n cubiertos. El mercado de seguros abre ma\u00f1ana. https://t.co/9iRCkLRGZD", 
+    "ts": 1477924927.0
+  }, 
+  {
+    "rating": 0.0, 
+    "text": "Speak up in support of quality, affordable health care for all. https://t.co/rGsSguMxvj", 
+    "ts": 1477917536.0
+  }, 
+  {
+    "rating": -0.16666666666666666, 
+    "text": "There's nothing to be scared of when searching for health insurance. Three in four people can #GetCovered for less\u2026 https://t.co/BUmnRO9B3E", 
+    "ts": 1477913421.0
+  }, 
+  {
+    "rating": 0.39999999999999997, 
+    "text": "Open enrollment begins tomorrow\u2014make sure you and your loved ones #GetCovered. https://t.co/2aak7Bt0s3", 
+    "ts": 1477908209.0
+  }, 
+  {
+    "rating": 0.6, 
+    "text": "RT @OFA: Witch plan is best for you? Thanks to Obamacare, even pre-existing conditions can't stop you from comparing your options. #GetCove\u2026", 
+    "ts": 1477846287.0
+  }, 
+  {
+    "rating": 0.0, 
+    "text": "Senate leaders' obstruction of our Supreme Court nomination process is unacceptable. Say so: https://t.co/t3pYMO8Fp0 #DoYourJob", 
+    "ts": 1477653643.0
+  }, 
+  {
+    "rating": 0.13333333333333333, 
+    "text": "Senate leaders should put the common good above politics\u2014the integrity of our nation's highest court depends on it.\u2026 https://t.co/iRVCEl1pzf", 
+    "ts": 1477647466.0
+  }, 
+  {
+    "rating": 0.0, 
+    "text": "Don't ghost on your health and well-being\u2014your chance to #GetCovered is coming up. Open enrollment starts November\u2026 https://t.co/qwNLazuPiz", 
+    "ts": 1477586849.0
+  }, 
+  {
+    "rating": -0.6, 
+    "text": "Climate change is happening now. Denial is dangerous. https://t.co/0Nlf8Fst4u", 
+    "ts": 1477584111.0
+  }, 
+  {
+    "rating": 0.15277777777777776, 
+    "text": "If you're willing to work hard and play by the rules, you should be able to get ahead. https://t.co/394hdJttgO", 
+    "ts": 1477580055.0
+  }, 
+  {
+    "rating": -0.2, 
+    "text": "President Obama lays out just a few of the ways in which #Obamacare has helped millions of Americans. https://t.co/qeqHRLz0ID", 
+    "ts": 1477574715.0
+  }, 
+  {
+    "rating": 0.19318181818181818, 
+    "text": "New report: Renewable energy installations are beating fossil fuel installations for the first time. https://t.co/MMhIdu4jzt #ActOnClimate", 
+    "ts": 1477568076.0
+  }, 
+  {
+    "rating": 0.0, 
+    "text": "Obamacare has helped millions of Americans gain the peace of mind that comes with coverage. Show your support: https://t.co/NfrG7DHL5C", 
+    "ts": 1477562233.0
+  }, 
+  {
+    "rating": 0.5, 
+    "text": "This is what happens when we focus on building an economy that works for everyone, not just those at the top. https://t.co/op3Z74rPeI", 
+    "ts": 1477490552.0
+  }, 
+  {
+    "rating": 0.2, 
+    "text": "No one's too wrapped up in pre-existing conditions to #GetCovered. \nThanks to Obamacare, you can find a plan that m\u2026 https://t.co/C7H9TZdxeU", 
+    "ts": 1477483419.0
+  }, 
+  {
+    "rating": 0.0, 
+    "text": "Help protect the progress we've made in helping millions of Americans get covered. Add your name now: https://t.co/HQSZKPl1eH", 
+    "ts": 1477479389.0
+  }, 
+  {
+    "rating": 0.11111111111111112, 
+    "text": "DYK: Most people can find a plan for less than $75 per month. Open enrollment starts on November 1. #GetCovered https://t.co/9RGG5Pr4mb", 
+    "ts": 1477474274.0
+  }, 
+  {
+    "rating": -0.007142857142857173, 
+    "text": "Women, the sick, survivors\u2014they all deserve fair treatment in our health care system. #Obamacare https://t.co/G948HN7pzV", 
+    "ts": 1477405505.0
+  }, 
+  {
+    "rating": 0.0, 
+    "text": "Don't get tripped up by misinformation. Join the @OFA Truth Team today: https://t.co/wJZj1QCxXm https://t.co/vwwDgFHq6A", 
+    "ts": 1477398683.0
+  }, 
+  {
+    "rating": 0.13333333333333336, 
+    "text": "RT @SecBurwell: Most people shopping on @HealthCareGov will again find plans with premiums of less than $75/month, thanks to financial assi\u2026", 
+    "ts": 1477392871.0
+  }, 
+  {
+    "rating": 0.8, 
+    "text": "Be proud of the progress we've made together\u2014wear the mark of this movement. https://t.co/fYf2O9WAwG https://t.co/1Z4yJmYh4E", 
+    "ts": 1477389318.0
+  }, 
+  {
+    "rating": 0.5666666666666667, 
+    "text": "Strong policies that help working families get ahead are good for our economy. https://t.co/QRRhibjZCl", 
+    "ts": 1477324967.0
+  }, 
+  {
+    "rating": 0.175, 
+    "text": "The four-week average of jobless claims fell to the lowest level since 1973\u2014a sign of a healthy labor market. https://t.co/Lv7DnRM2DY", 
+    "ts": 1477320094.0
+  }, 
+  {
+    "rating": -0.16666666666666666, 
+    "text": "Since 2010, America's uninsured rate has been cut in half. Help build on that progress\u2014join Team #Obamacare today: https://t.co/MhIICuE17A", 
+    "ts": 1477315338.0
+  }, 
+  {
+    "rating": 0.0, 
+    "text": "RT @OFA: It's working.\nIt's saving lives.\nAnd we're not going back.\nRetweet to show your support. https://t.co/YOBeMMSYP8", 
+    "ts": 1477309017.0
+  }, 
+  {
+    "rating": 0.2857142857142857, 
+    "text": "Health care is a right, not a privilege\u2014and #Obamacare works to protect that right for millions of Americans. https://t.co/B7fO8rhggW", 
+    "ts": 1477302673.0
+  }, 
+  {
+    "rating": 0.0, 
+    "text": "Don't get tripped up by misinformation. Join the @OFA Truth Team today: https://t.co/09BpA6F9Ne https://t.co/Nxgp87o4iq", 
+    "ts": 1477063023.0
+  }, 
+  {
+    "rating": 0.19999999999999998, 
+    "text": "Being able to stay on a parent's plan enables millions of young adults to make choices about their future with the\u2026 https://t.co/1lSzxCHZVf", 
+    "ts": 1477048247.0
+  }, 
+  {
+    "rating": 0.0, 
+    "text": "\"Because of Obamacare, another 20 million Americans now know the financial security of health insurance.\" https://t.co/eNd6J8bMxm", 
+    "ts": 1477041959.0
+  }, 
+  {
+    "rating": 0.5, 
+    "text": "Stand up for the law that's helped 20 million more Americans gain health coverage. Join Team @Obamacare today: https://t.co/XiNXrgnPoF", 
+    "ts": 1476976328.0
+  }, 
+  {
+    "rating": 0.3, 
+    "text": "There's still more work to do, but let's celebrate how far we've come. https://t.co/kUVWn68kJw", 
+    "ts": 1476969422.0
+  }, 
+  {
+    "rating": 0.06818181818181818, 
+    "text": "LIVE: President Obama is in Miami talking about the progress made possible by the Affordable Care Act. https://t.co/7FsQXut07O", 
+    "ts": 1476966178.0
+  }, 
+  {
+    "rating": 0.0, 
+    "text": "RT @WhiteHouse: Each day, @POTUS reads 10 letters from Americans. Today, we're sharing some of the letters written about #ACA: https://t.co\u2026", 
+    "ts": 1476964750.0
+  }, 
+  {
+    "rating": 0.0, 
+    "text": "Tune in at 1:55 p.m. ET to watch President Obama speak about the successes of the Affordable Care Act. https://t.co/7FsQXut07O", 
+    "ts": 1476962676.0
+  }, 
+  {
+    "rating": 0.5, 
+    "text": "There's a lot of misinformation floating around. Make sure you've got the facts\u2014join the @OFA Truth Team:\u2026 https://t.co/SpfRFK5LWq", 
+    "ts": 1476957945.0
+  }, 
+  {
+    "rating": 0.0, 
+    "text": "From coast to coast, editorial boards are denouncing Senate obstructionism. Take a look: https://t.co/vqDr2bBiVr #DoYourJob", 
+    "ts": 1476888029.0
+  }, 
+  {
+    "rating": 0.016666666666666666, 
+    "text": "Our Supreme Court has been short a justice for far too long. #DoYourJob, Senate leaders. https://t.co/yJlejtHjr0", 
+    "ts": 1476880632.0
+  }, 
+  {
+    "rating": 0.35, 
+    "text": "RT @SecBurwell: Today, 20M more Americans have coverage thanks to the #ACA. Our uninsured rate is the lowest in our nation\u2019s history. Lowes\u2026", 
+    "ts": 1476872772.0
+  }, 
+  {
+    "rating": 0.10000000000000002, 
+    "text": "The need for a ninth justice is undeniably clear. #DoYourJob https://t.co/L1EBgNbh3Q", 
+    "ts": 1476869957.0
+  }, 
+  {
+    "rating": 0.1431818181818182, 
+    "text": "We can't afford to let this be the new normal. https://t.co/nJzyfz2Zlw #ActOnClimate", 
+    "ts": 1476801051.0
+  }, 
+  {
+    "rating": -0.05555555555555555, 
+    "text": "Denying climate change is dangerous. Join @OFA supporters in standing up for bold action now: https://t.co/JZnvlb080l #ActOnClimate", 
+    "ts": 1476795318.0
+  }, 
+  {
+    "rating": 0.2, 
+    "text": "Climate change is real, but so is the progress we're making to #ActOnClimate. Let's keep it up. https://t.co/GOFKXQblGJ", 
+    "ts": 1476790819.0
+  }, 
+  {
+    "rating": 0.5, 
+    "text": "This is just the latest step forward in the push to #ActOnClimate. https://t.co/UDInkidKkP", 
+    "ts": 1476785712.0
+  }, 
+  {
+    "rating": 0.0, 
+    "text": "Read why @FLOTUS is fighting to ensure that girls everywhere have access to quality education. https://t.co/xleq3HHSZt #LetGirlsLearn", 
+    "ts": 1476722651.0
+  }, 
+  {
+    "rating": -0.12222222222222223, 
+    "text": "Wildfires in the next few decades could be \"unrecognizable\" to previous generations\u2014because of climate change: https://t.co/vM3xM6mCf3", 
+    "ts": 1476718675.0
+  }, 
+  {
+    "rating": 0.19999999999999998, 
+    "text": "Senate leaders are blocking the Supreme Court nomination for their own political gain\u2014don't be silent: https://t.co/OMdTVim0TC #DoYourJob", 
+    "ts": 1476710197.0
+  }, 
+  {
+    "rating": 0.25, 
+    "text": "RT @WhiteHouse: \"Nobody should be priced out of a higher education.\" \u2014@POTUS on the progress we've made: https://t.co/4YohVv7Qea https://t.\u2026", 
+    "ts": 1476702152.0
+  }, 
+  {
+    "rating": 0.0, 
+    "text": "RT @WHLive: Watch as @POTUS speaks on the progress made to ensure every student has the opportunity to realize their potential: https://t.c\u2026", 
+    "ts": 1476698608.0
+  }, 
+  {
+    "rating": 0.39999999999999997, 
+    "text": "Senate leaders have recognized Judge Garland's impeccable credentials in the past. He deserves a fair hearing and a\u2026 https://t.co/w9bPtpSmm7", 
+    "ts": 1476698423.0
+  }, 
+  {
+    "rating": 0.0, 
+    "text": "We need a fully functional Supreme Court. Editorial boards across the country agree: https://t.co/BkLrNaTtzN #DoYourJob", 
+    "ts": 1476460079.0
+  }, 
+  {
+    "rating": 0.0, 
+    "text": "The American Bar Association gave Judge Garland its highest rating. Senate leaders: #DoYourJob and fill the #SCOTUS\u2026 https://t.co/iTVTqGIUvV", 
+    "ts": 1476453014.0
+  }, 
+  {
+    "rating": -0.05555555555555555, 
+    "text": "Denying climate change is dangerous. Join @OFA supporters in standing up for bold action now: https://t.co/7MDQGYgX2u #ActOnClimate", 
+    "ts": 1476446481.0
+  }, 
+  {
+    "rating": 0.0, 
+    "text": "Cynics, take note: When we #ActOnClimate, we build a stronger future. https://t.co/wHHMdo2ro6", 
+    "ts": 1476442113.0
+  }, 
+  {
+    "rating": 0.5, 
+    "text": "\"That\u2019s how we will overcome the challenges we face: by unleashing the power of all of us for all of us.\" Read more: https://t.co/VxpwLIR4uF", 
+    "ts": 1476374434.0
+  }, 
+  {
+    "rating": 0.25, 
+    "text": "Check out the most recent editorial boards calling on Senate leaders to vote on Judge Garland: https://t.co/hzuhZYevfo #DoYourJob", 
+    "ts": 1476370774.0
+  }, 
+  {
+    "rating": 0.0, 
+    "text": "Senate leaders have undercut the functionality of the Supreme Court, and that's unacceptable. #DoYourJob https://t.co/5HFXhgTMoP", 
+    "ts": 1476363548.0
+  }, 
+  {
+    "rating": 0.0, 
+    "text": "Senate leaders' political games are handicapping the Supreme Court\u2014and judgeships across the country. https://t.co/PhKOBKXLmS #DoYourJob", 
+    "ts": 1476357820.0
+  }, 
+  {
+    "rating": 0.0, 
+    "text": "RT @WIRED: After eight years in office, @POTUS remains optimistic about the world's future. His essay as WIRED\u2019s guest editor: https://t.co\u2026", 
+    "ts": 1476352466.0
+  }, 
+  {
+    "rating": 0.13636363636363635, 
+    "text": "LIVE: President Obama is speaking at a reception celebrating #HispanicHeritageMonth. https://t.co/FK0ytbKw1q", 
+    "ts": 1476286341.0
+  }, 
+  {
+    "rating": 0.0, 
+    "text": "RT @WhiteHouse: In honor of #HispanicHeritageMonth, we celebrate the progress that Hispanic Americans have made under @POTUS: https://t.co/\u2026", 
+    "ts": 1476285878.0
+  }, 
+  {
+    "rating": 0.26666666666666666, 
+    "text": "Support the bold steps we're taking against climate change. Say you're ready to #ActOnClimate: https://t.co/EtwjaKgYFW", 
+    "ts": 1476281635.0
+  }, 
+  {
+    "rating": 0.25, 
+    "text": "Last week, more than 190 countries reached a landmark deal to reduce carbon pollution from aviation. https://t.co/LRYkXVw3rO #ActOnClimate", 
+    "ts": 1476275241.0
+  }, 
+  {
+    "rating": 0.0, 
+    "text": "Let's leave our children and grandchildren a planet that's healthier than the one we have today. #ActOnClimate https://t.co/mP29bpRdU9", 
+    "ts": 1476270341.0
+  }, 
+  {
+    "rating": -0.7, 
+    "text": "Climate change's effects are devastating. Denying the science behind it does nothing to help. https://t.co/Rww40wwgD9 #ActOnClimate", 
+    "ts": 1476266103.0
+  }, 
+  {
+    "rating": 0.0, 
+    "text": "\"On behalf of Michelle and our family, G\u2019mar Chatimah Tovah.\" \u2014President Obama #YomKippur", 
+    "ts": 1476210549.0
+  }, 
+  {
+    "rating": 0.0, 
+    "text": "\"LGBT individuals deserve to know their country stands beside them.\" \u2014President Obama #NationalComingOutDay https://t.co/op7nBzbaod", 
+    "ts": 1476200889.0
+  }, 
+  {
+    "rating": 0.0, 
+    "text": "The Supreme Court must remain above politics. Judge Garland needs a hearing and a vote. #DoYourJob https://t.co/eVSPSIFNpB", 
+    "ts": 1476196339.0
+  }, 
+  {
+    "rating": 0.7, 
+    "text": "Don't stand idly by while Senate leaders continue to block Judge Garland from a fair hearing and vote: https://t.co/TSavHP3mHg #DoYourJob", 
+    "ts": 1476191326.0
+  }, 
+  {
+    "rating": 0.0, 
+    "text": "Judge Garland is just as qualified now as he was in 1997, Senate leaders. It's time to #DoYourJob. https://t.co/j1lEkdMYV6", 
+    "ts": 1476186992.0
+  }, 
+  {
+    "rating": 0.0, 
+    "text": "Dispel misinformation with facts from the @OFA Truth Team. https://t.co/zjexLUJXAC", 
+    "ts": 1476180094.0
+  }, 
+  {
+    "rating": 0.2, 
+    "text": "The uninsured rate is the lowest it's been in decades, thanks to #Obamacare. Spread the word.\u2026 https://t.co/ZkN8HVbn3E", 
+    "ts": 1475857985.0
+  }, 
+  {
+    "rating": -0.5, 
+    "text": "Deadline tonight\u2014help rein in payday lenders that succeed by targeting vulnerable Americans: https://t.co/7OlpH6OFek #StopTheDebtTrap", 
+    "ts": 1475852927.0
+  }, 
+  {
+    "rating": 0.0, 
+    "text": "The Obama administration and @CFPB are working to protect consumers and #StopTheDebtTrap. https://t.co/UMO01OUkdh", 
+    "ts": 1475850260.0
+  }, 
+  {
+    "rating": 0.5, 
+    "text": "Our economy is on a better, stronger course. https://t.co/yzB6x7CExJ", 
+    "ts": 1475843536.0
+  }, 
+  {
+    "rating": 0.2, 
+    "text": "The economic progress we've made is undeniable\u2014let's keep it up. https://t.co/gAlfaC1hkI", 
+    "ts": 1475837219.0
+  }, 
+  {
+    "rating": 0.1875, 
+    "text": "Check out President Obama's essay in @TheEconomist on the unique challenges the American economy faces. https://t.co/jKJNCrQALL", 
+    "ts": 1475833456.0
+  }, 
+  {
+    "rating": 0.0, 
+    "text": "The economy added 156,000 jobs in September\u2014extending the longest streak of total job growth on record.", 
+    "ts": 1475828962.0
+  }, 
+  {
+    "rating": 0.0, 
+    "text": "ICYMI: Read about the historic #ParisAgreement and what it means for the fight to #ActOnClimate. https://t.co/eMefgFZk53", 
+    "ts": 1475759127.0
+  }, 
+  {
+    "rating": 0.05, 
+    "text": "RT @WhiteHouse: This is #SXSL: The White House festival of ideas, art, and action. Take a peek inside: https://t.co/BbvvMEaQTF https://t.co\u2026", 
+    "ts": 1475754766.0
+  }, 
+  {
+    "rating": 0.24722222222222223, 
+    "text": "The cost of clean energy technology dropped significantly over the last eight years. Get the chart: https://t.co/fuGQMXeRYb #ActOnClimate", 
+    "ts": 1475749137.0
+  }, 
+  {
+    "rating": 0.0, 
+    "text": "This historic step in the fight to #ActOnClimate came faster than anyone predicted. https://t.co/W2rtcNXkI7", 
+    "ts": 1475683238.0
+  }, 
+  {
+    "rating": 0.0, 
+    "text": "\"Today is a historic day in the fight to protect our planet for future generations.\" \u2014President Obama #ActOnClimate https://t.co/x3dJSCYUcj", 
+    "ts": 1475680482.0
+  }, 
+  {
+    "rating": 0.13636363636363635, 
+    "text": "LIVE: President Obama is delivering a statement on the Paris Climate Agreement. https://t.co/mNpQ6QyA91", 
+    "ts": 1475676042.0
+  }, 
+  {
+    "rating": 0.0, 
+    "text": "Read from @NYTopinion about why filling the Supreme Court vacancy is crucial for our democracy: https://t.co/zuSWzxSaqW #DoYourJob", 
+    "ts": 1475662842.0
+  }, 
+  {
+    "rating": 0.0, 
+    "text": "Enough is enough. Say it's time for Senate leaders to get to work: https://t.co/2M789YIcBk #DoYourJob", 
+    "ts": 1475593246.0
+  }, 
+  {
+    "rating": 0.6, 
+    "text": "\"Everybody cares about their kids, their grandkids, and the kind of world we pass on to them.\" \u2014President Obama https://t.co/cfxpSBNWIU", 
+    "ts": 1475585895.0
+  }, 
+  {
+    "rating": 0.0, 
+    "text": "Take what matters with you. https://t.co/E0hXWSu1q3 https://t.co/KJJdkE8DML", 
+    "ts": 1475580230.0
+  }, 
+  {
+    "rating": -0.05, 
+    "text": "We've come a long way, but the fight for fairness and an economy that works for everyone continues. https://t.co/WWRhZHwYWE", 
+    "ts": 1475573893.0
+  }, 
+  {
+    "rating": 0.0, 
+    "text": "RT @NatGeoChannel: Tonight @POTUS will be joined by @LeoDiCaprio for a conversation on combating climate change: https://t.co/yCN9K74Jnj #S\u2026", 
+    "ts": 1475504840.0
+  }, 
+  {
+    "rating": 0.5, 
+    "text": "Side-by-side for 24 years. Here's to many more. #HappyAnniversary https://t.co/nh8Xfc7IWU", 
+    "ts": 1475499260.0
+  }, 
+  {
+    "rating": 0.13636363636363635, 
+    "text": "RT @WhiteHouse: Today, @POTUS is bringing something new to the South Lawn. Find out why: https://t.co/JvtZFKpQKZ", 
+    "ts": 1475493919.0
+  }, 
+  {
+    "rating": 0.0, 
+    "text": "Facts matter. Stay informed with the @OFA Truth Team: https://t.co/O8PhOX5jJ3", 
+    "ts": 1475488843.0
+  }, 
+  {
+    "rating": -0.35714285714285715, 
+    "text": "RT @OFA: \"Since I took office, another ten million private-sector workers have gained paid sick leave.\" \u2014President Obama https://t.co/Ud3vq\u2026", 
+    "ts": 1475318160.0
+  }, 
+  {
+    "rating": 0.4, 
+    "text": "In the weekly address, President Obama discusses why access to paid leave is so important. https://t.co/q9kDEqYs5u #LeadOnLeave", 
+    "ts": 1475313401.0
+  }, 
+  {
+    "rating": -0.7142857142857143, 
+    "text": "Parents shouldn't have to choose between a paycheck and taking care of a sick child at home. #LeadOnLeave https://t.co/FF4hTkgOZy", 
+    "ts": 1475251361.0
+  }, 
+  {
+    "rating": 0.0, 
+    "text": "After thirty years in Congress, Senator, this should not be your proudest accomplishment. https://t.co/FwGAJsBCoo\u2026 https://t.co/86F1fhUWsp", 
+    "ts": 1475246462.0
+  }, 
+  {
+    "rating": 0.0, 
+    "text": "We need a fully functioning Supreme Court. Speak up if you agree it's time for a hearing and a vote: https://t.co/d6nmum1Ut7 #DoYourJob", 
+    "ts": 1475237862.0
+  }, 
+  {
+    "rating": 0.6, 
+    "text": "There has never been a more qualified nominee, Senate leaders. He deserves a fair hearing and a vote. #DoYourJob https://t.co/qtzcY3iwyl", 
+    "ts": 1475231244.0
+  }
+]

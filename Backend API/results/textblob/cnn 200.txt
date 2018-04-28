@@ -1,0 +1,1006 @@
+[
+  {
+    "bot_percentage": 0, 
+    "profileimage": "http://pbs.twimg.com/profile_images/508960761826131968/LnvhR8ED_400x400.png"
+  }, 
+  {
+    "rating": 0.05, 
+    "text": "When she was just 3 years old, she disappeared on a busy street in China. 24 years later, she finally had an emotio\u2026 https://t.co/lB7C23m21b", 
+    "ts": 1522991137.0
+  }, 
+  {
+    "rating": -0.25, 
+    "text": "Disgraced former South Korean President Park Geun-hye found guilty in corruption case and sentenced to 24 years in\u2026 https://t.co/TwgUAYh35L", 
+    "ts": 1522988706.0
+  }, 
+  {
+    "rating": 0.0, 
+    "text": "\"I realized, yes, I have a paralyzed vocal cord, but I also have a second chance of life.\"\n\nJoseph Sakran was 17 wh\u2026 https://t.co/QmCFFSpkdh", 
+    "ts": 1522988141.0
+  }, 
+  {
+    "rating": 0.17857142857142858, 
+    "text": "Special counsel Robert Mueller's prosecutors reveal that they're using information related to the searches of Paul\u2026 https://t.co/GDVfbu64ra", 
+    "ts": 1522987627.0
+  }, 
+  {
+    "rating": -0.4, 
+    "text": "UFC star Conor McGregor was charged with three counts of assault and one count of criminal mischief after an allege\u2026 https://t.co/0iVTjz9DWq", 
+    "ts": 1522987004.0
+  }, 
+  {
+    "rating": 0.25, 
+    "text": "Trump will not be the first President to deploy National Guard troops to assist in border security -- in fact, both\u2026 https://t.co/xd0nAi2JeM", 
+    "ts": 1522986528.0
+  }, 
+  {
+    "rating": 0.0, 
+    "text": "A jury awarded $30 million in compensatory damages to a man who got cancer after decades of using talcum powder. Hi\u2026 https://t.co/3I1nH2xRgC", 
+    "ts": 1522985571.0
+  }, 
+  {
+    "rating": 0.0, 
+    "text": "These are the Central American migrants crossing Mexico in a caravan https://t.co/EbUEoBKhac https://t.co/CVZAgzNZrA", 
+    "ts": 1522983710.0
+  }, 
+  {
+    "rating": -0.1, 
+    "text": "US Vice President Mike Pence recalled recently meeting the US Air Force Thunderbird pilot who was killed in a train\u2026 https://t.co/rMiZKYnMVB", 
+    "ts": 1522981826.0
+  }, 
+  {
+    "rating": 0.0, 
+    "text": "Yes, Facebook is scanning your messages https://t.co/NZKEnDQy2p https://t.co/bbMCqwtI5s", 
+    "ts": 1522980524.0
+  }, 
+  {
+    "rating": 0.0, 
+    "text": "Female medics were asked to stop treating a collapsed official because women aren\u2019t allowed in sumo rings\u2026 https://t.co/L34Dkyq3Gl", 
+    "ts": 1522979857.0
+  }, 
+  {
+    "rating": -0.25, 
+    "text": "RT @cnni: BREAKING: Disgraced former South Korean President Park Geun-hye found guilty in corruption case and sentenced to 24 years in pris\u2026", 
+    "ts": 1522978582.0
+  }, 
+  {
+    "rating": 0.0, 
+    "text": "The world's largest single-domed tropical greenhouse is coming to France https://t.co/uGHOY2az6r via @CNNStyle https://t.co/UY2RZuqHEM", 
+    "ts": 1522978143.0
+  }, 
+  {
+    "rating": 0.0, 
+    "text": "\"Is the President a racist?\" \n\nSenator Tim Scott told CNN's Don Lemon that President Trump is not racist, but can b\u2026 https://t.co/ks1yZqfkAj", 
+    "ts": 1522977568.0
+  }, 
+  {
+    "rating": 0.0, 
+    "text": "The urban farms greening Paris https://t.co/KELiDAnTvw via @CNNStyle https://t.co/fYYEEmCHeg", 
+    "ts": 1522977200.0
+  }, 
+  {
+    "rating": -0.3499999999999999, 
+    "text": "RT @CNNTonight: Republican strategist @ananavarro says EPA chief Scott Pruitt's recent media interview \"was so bad he made Betsy DeVos look\u2026", 
+    "ts": 1522977115.0
+  }, 
+  {
+    "rating": 0.0, 
+    "text": "RT @CNNTonight: Sen. Tim Scott tells CNN's @DonLemon that he doesn't believe President Trump is a racist. \"Can he be racially insensitive?\u2026", 
+    "ts": 1522977057.0
+  }, 
+  {
+    "rating": 0.05, 
+    "text": "When she was just 3 years old, she disappeared on a busy street in China. 24 years later, she finally had an emotio\u2026 https://t.co/mRDC1gaM0l", 
+    "ts": 1522976577.0
+  }, 
+  {
+    "rating": -0.05, 
+    "text": "Six human rights activists in Vietnam have been sentenced to between seven and 15 years in jail -- a move condemned\u2026 https://t.co/2Luxz0RbhS", 
+    "ts": 1522976420.0
+  }, 
+  {
+    "rating": -0.05, 
+    "text": "In 2014, a 23-year-old woman with cerebral palsy was allegedly gang-raped and thrown from a rooftop. \n\nA Human Righ\u2026 https://t.co/nBVlqa3K9W", 
+    "ts": 1522975564.0
+  }, 
+  {
+    "rating": -0.05, 
+    "text": "Ultimate Fighting Championship star Conor McGregor turned himself in Thursday evening after an alleged bus attack h\u2026 https://t.co/1aHbtkJI2r", 
+    "ts": 1522974906.0
+  }, 
+  {
+    "rating": 0.17222222222222222, 
+    "text": "The island paradise of Boracay is shutting down temporarily over concerns the Philippine island's famous beaches an\u2026 https://t.co/2jCClAcD8v", 
+    "ts": 1522974744.0
+  }, 
+  {
+    "rating": 0.0, 
+    "text": "Malaysian Prime Minister Najib Razak announced the dissolution of parliament on Friday, officially kicking off elec\u2026 https://t.co/FieW5b2GDE", 
+    "ts": 1522974364.0
+  }, 
+  {
+    "rating": 0.0, 
+    "text": "\"Why is President Trump suddenly in a rush to get out of Syria? Could the answer ... lead us back to Russian Presid\u2026 https://t.co/FAGmEKP80w", 
+    "ts": 1522973763.0
+  }, 
+  {
+    "rating": 0.16666666666666666, 
+    "text": "Director Steven Spielberg says casting a female to play the iconic role of Indiana Jones could actually become a re\u2026 https://t.co/ApkDIWCQpi", 
+    "ts": 1522972867.0
+  }, 
+  {
+    "rating": 0.0, 
+    "text": "The personal data and payment information of Sears and Delta Air Lines customers may have been exposed in a data br\u2026 https://t.co/XoBjU8sM0x", 
+    "ts": 1522971963.0
+  }, 
+  {
+    "rating": 0.0, 
+    "text": "Yes, Facebook is scanning your messages https://t.co/iz5A7DyYin https://t.co/g02QdQqIq9", 
+    "ts": 1522971067.0
+  }, 
+  {
+    "rating": 0.0, 
+    "text": "An Illinois town has banned assault weapons. The penalty if you keep one? Up to $1,000 a day. https://t.co/YqR2AVLVwY", 
+    "ts": 1522970163.0
+  }, 
+  {
+    "rating": 0.0, 
+    "text": "A self-styled sex coach who claims to have insider knowledge of Moscow's attempts to meddle in the US election has\u2026 https://t.co/35gAuiZuTD", 
+    "ts": 1522969265.0
+  }, 
+  {
+    "rating": -0.14999999999999997, 
+    "text": "\"I will gladly work with the President when his ideas aren't stupid and detrimental to the United States,\" says Rep\u2026 https://t.co/AyLd6zCHcn", 
+    "ts": 1522968395.0
+  }, 
+  {
+    "rating": 0.0, 
+    "text": "The largest association of doctors in the United States says there is \"no medically valid reason\" to bar transgende\u2026 https://t.co/U0CLjxRFtO", 
+    "ts": 1522967461.0
+  }, 
+  {
+    "rating": -0.7, 
+    "text": "Anger. Outrage. Disbelief. What women say about the gender pay gap https://t.co/38YWzyvEci https://t.co/NHQDAbh74S", 
+    "ts": 1522966821.0
+  }, 
+  {
+    "rating": -0.05, 
+    "text": "Ultimate Fighting Championship star Conor McGregor turned himself in Thursday evening after an alleged bus attack h\u2026 https://t.co/XjiV1TEjxC", 
+    "ts": 1522966496.0
+  }, 
+  {
+    "rating": 0.0, 
+    "text": "Female medics were asked to stop treating a collapsed official because women aren\u2019t allowed in sumo rings\u2026 https://t.co/ctmTboCTsc", 
+    "ts": 1522965662.0
+  }, 
+  {
+    "rating": 0.0, 
+    "text": "Scott Pruitt is everything Trump loves in an underling. Also everything he hates. | Analysis by @CillizzaCNN\u2026 https://t.co/zWIGF2xivR", 
+    "ts": 1522964466.0
+  }, 
+  {
+    "rating": -0.6, 
+    "text": "Artificial intelligence scientists from around the world called for a boycott of a South Korean university over con\u2026 https://t.co/QShjl6xjbE", 
+    "ts": 1522964028.0
+  }, 
+  {
+    "rating": 0.0, 
+    "text": "Family members of the woman who opened fire at YouTube's headquarters this week were stunned by news of the attack,\u2026 https://t.co/VbQqqCFJjs", 
+    "ts": 1522963263.0
+  }, 
+  {
+    "rating": -0.1, 
+    "text": "Vice President Mike Pence recalled recently meeting the US Air Force Thunderbird pilot who was killed in a training\u2026 https://t.co/UvQHacfLzz", 
+    "ts": 1522962870.0
+  }, 
+  {
+    "rating": 0.17857142857142858, 
+    "text": "Special counsel Robert Mueller's prosecutors revealed that they're using information related to the searches of Pau\u2026 https://t.co/RQnHg22noC", 
+    "ts": 1522962707.0
+  }, 
+  {
+    "rating": 0.5, 
+    "text": "Michigan State University fostered a culture that was more focused on protecting the school than the survivors of s\u2026 https://t.co/LYour8k9wm", 
+    "ts": 1522962365.0
+  }, 
+  {
+    "rating": 0.275, 
+    "text": "The US surgeon general has issued an advisory recommending that more Americans carry the opioid overdose-reversing\u2026 https://t.co/M7ReYvdB4J", 
+    "ts": 1522962067.0
+  }, 
+  {
+    "rating": -0.6499999999999999, 
+    "text": "Democratic Rep. Ruben Gallego: I'll work with President Trump \"when his ideas aren't stupid\" https://t.co/NrgEwrpndc https://t.co/EdvyhChD3u", 
+    "ts": 1522961646.0
+  }, 
+  {
+    "rating": 0.0, 
+    "text": "Facebook should have known about these Russia-linked pages months ago. It only just deleted them.\u2026 https://t.co/b5UbdrKOYb", 
+    "ts": 1522961164.0
+  }, 
+  {
+    "rating": 0.17222222222222222, 
+    "text": "The FBI's top liaison on Capitol Hill is out.\n\nGreg Brower has stepped down after a year on the job. He was on the\u2026 https://t.co/O7LSyaNQKg", 
+    "ts": 1522960868.0
+  }, 
+  {
+    "rating": 0.06818181818181818, 
+    "text": "New York police released a video of this man pointing a metal object as if he were brandishing a gun. He was later\u2026 https://t.co/AsxHnHhzOT", 
+    "ts": 1522960664.0
+  }, 
+  {
+    "rating": 1.0, 
+    "text": "The Maldives is a tropical destination in the Indian Ocean best known for its 1,000-some islands and over-the-top e\u2026 https://t.co/VoeZWcwDnl", 
+    "ts": 1522960266.0
+  }, 
+  {
+    "rating": 0.0, 
+    "text": "RT @OutFrontCNN: When Presidential pants meet the fashion police: CNN's Jeanne Moos reports on the guy who wears the pants in the White Hou\u2026", 
+    "ts": 1522959697.0
+  }, 
+  {
+    "rating": 0.0, 
+    "text": "\"We knew sooner or later he was going to crack\": Stormy Daniels' lawyer reacts to Trump breaking his silence on thi\u2026 https://t.co/GnVINgobNi", 
+    "ts": 1522959657.0
+  }, 
+  {
+    "rating": 0.0, 
+    "text": "Australia launches investigation into Facebook over data scandal https://t.co/vasp0lQOy8 https://t.co/rTlKzZPP9t", 
+    "ts": 1522959623.0
+  }, 
+  {
+    "rating": 0.0, 
+    "text": "The future of former Secretary of State Rex Tillerson's unpopular agency restructure project is in doubt, despite $\u2026 https://t.co/hi29qlc0LV", 
+    "ts": 1522959367.0
+  }, 
+  {
+    "rating": 0.0, 
+    "text": "RT @AC360: \"We knew sooner or later he was going to crack\" Stormy Daniel\u2019s lawyer on Trump saying today he did not know about Michael Cohen\u2026", 
+    "ts": 1522959304.0
+  }, 
+  {
+    "rating": -0.3125, 
+    "text": "Lindsay Lohan is being a \"mean girl\" to President Donald Trump on Twitter by offering to help get him a lawyer. She\u2026 https://t.co/p2k5ZIZxd2", 
+    "ts": 1522959151.0
+  }, 
+  {
+    "rating": 0.0, 
+    "text": "The White House is reviewing a proposal that would roll back protections for around 300 threatened species\u2026 https://t.co/ZNNUgRAlHh", 
+    "ts": 1522958467.0
+  }, 
+  {
+    "rating": 0.25857142857142856, 
+    "text": "The 17 victims of the shooting at Marjory Stoneman Douglas High School will be memorialized in a special issue of t\u2026 https://t.co/JozLeQ0HVu", 
+    "ts": 1522958073.0
+  }, 
+  {
+    "rating": -0.1875, 
+    "text": "President Trump throws out his prepared remarks in West Virginia: \"To hell with it. That would have been a little b\u2026 https://t.co/VMPn1GKT7L", 
+    "ts": 1522957888.0
+  }, 
+  {
+    "rating": 0.06818181818181818, 
+    "text": "How New England Patriots player Julian Edelman helped stop a potential school shooting https://t.co/FGtB6taFLH https://t.co/ZOSoLkrFaf", 
+    "ts": 1522957263.0
+  }, 
+  {
+    "rating": 0.375, 
+    "text": "RT @AC360: Our @GaryTuchmanCNN is in Texas where he is discovering that not all the locals are so excited about President Trump's plan to s\u2026", 
+    "ts": 1522956797.0
+  }, 
+  {
+    "rating": 0.0, 
+    "text": "The companies Trump has attacked on Twitter since his election:\n\nABC News\nAmazon\nBoeing\nCBS\nCNN\nComcast/MSNBC/NBC\nD\u2026 https://t.co/bUEbBkKggr", 
+    "ts": 1522956661.0
+  }, 
+  {
+    "rating": 0.13636363636363635, 
+    "text": "Why the new tax law could make your state tax bill go up https://t.co/EqbHkY37Of https://t.co/V15mxPB2j8", 
+    "ts": 1522956068.0
+  }, 
+  {
+    "rating": -0.5, 
+    "text": "Donald Trump's illegal voters fantasy, part 281 | Analysis by @CillizzaCNN https://t.co/XXQStX5Fgf https://t.co/ObZJbyzeIM", 
+    "ts": 1522955462.0
+  }, 
+  {
+    "rating": 0.0, 
+    "text": "A sense of frenzied uncertainty has settled in inside the government agencies tasked with enacting President Trump'\u2026 https://t.co/bkAwkOFDph", 
+    "ts": 1522955125.0
+  }, 
+  {
+    "rating": 0.0, 
+    "text": "Target reaches a $3.74 million settlement in a class-action suit alleging that the retail giant's hiring process un\u2026 https://t.co/acFyB139N2", 
+    "ts": 1522954845.0
+  }, 
+  {
+    "rating": 0.0, 
+    "text": "RT @OutFrontCNN: President Trump says he is considering sending \"anywhere from 2,000 to 4,000\" National Guard troops to the southern border\u2026", 
+    "ts": 1522954764.0
+  }, 
+  {
+    "rating": 0.2, 
+    "text": "Trump gets testy as his top military brass and national security team warn of the risks of Syria withdrawal\u2026 https://t.co/Ridtte6BQq", 
+    "ts": 1522954762.0
+  }, 
+  {
+    "rating": -0.05, 
+    "text": "In 2014, a 23-year-old woman with cerebral palsy was allegedly gang-raped and thrown from a rooftop. \n\nA Human Righ\u2026 https://t.co/oM4Z1gnKR6", 
+    "ts": 1522954020.0
+  }, 
+  {
+    "rating": 0.0, 
+    "text": "What governors are saying about President Trump's National Guard border deployment https://t.co/19yN2OYdJq https://t.co/E2v1EmL40a", 
+    "ts": 1522953901.0
+  }, 
+  {
+    "rating": 0.0, 
+    "text": "Identical twins Gustavo and Otavio Pandolfo stood out during Hong Kong Art Week for their unapologetic escapism.\n\nT\u2026 https://t.co/OPzcDkjxrF", 
+    "ts": 1522953708.0
+  }, 
+  {
+    "rating": -0.1, 
+    "text": "\"OK, I'm blind... Now let's deal with it\": At 12 years old, Jake Olson found out he was going to go blind. But he d\u2026 https://t.co/DLkgRS0UA2", 
+    "ts": 1522952995.0
+  }, 
+  {
+    "rating": 0.0, 
+    "text": "\"Donald Trump has a staff infection,\" Democratic Rep. Jamie Raskin says of the controversy over EPA chief Scott Pru\u2026 https://t.co/wOPJ0vLQWX", 
+    "ts": 1522952623.0
+  }, 
+  {
+    "rating": 0.0, 
+    "text": "How could Trump be so clueless about community colleges? | By Melissa Blake via @CNNOpinion https://t.co/2i1rV9vGyB https://t.co/H3BAGa5umr", 
+    "ts": 1522952358.0
+  }, 
+  {
+    "rating": 0.0, 
+    "text": "RT @OutFrontCNN: \"Scott Pruitt is the poster boy for the most ethically corrupt and compromised administration of our lifetimes,\" says Demo\u2026", 
+    "ts": 1522951933.0
+  }, 
+  {
+    "rating": 0.16, 
+    "text": "Tensions on both sides of the Gaza-Israel border are high as Palestinians in Gaza call for a \"Friday of Fire\" https://t.co/PUPkue6OiQ", 
+    "ts": 1522951563.0
+  }, 
+  {
+    "rating": 0.0, 
+    "text": "A group opposed to the Republican tax law is spending $500,000 on an ad campaign amid signs of an intensifying spec\u2026 https://t.co/kclsIBkTPn", 
+    "ts": 1522951226.0
+  }, 
+  {
+    "rating": 0.1708333333333333, 
+    "text": "The extraordinary story of a married Chinese couple reuniting with their daughter nearly 24 years after she went mi\u2026 https://t.co/k79EV9Ch8U", 
+    "ts": 1522951075.0
+  }, 
+  {
+    "rating": 0.0, 
+    "text": "JUST IN: President Trump says he's considering $100 billion in additional tariffs on China https://t.co/P7ggcfeW12 https://t.co/Pz5zFOYaGu", 
+    "ts": 1522950425.0
+  }, 
+  {
+    "rating": -0.03181818181818183, 
+    "text": "Harvey Weinstein hires a new PR firm https://t.co/5aeZvc5GUL https://t.co/ZhAUY8hr9e", 
+    "ts": 1522950382.0
+  }, 
+  {
+    "rating": 0.0, 
+    "text": "Trump's sending troops to the border to take on 200 kids and parents | By Patricia Fern\u00e1ndez-Kelly via @CNNOpinion\u2026 https://t.co/59sUVfiuAn", 
+    "ts": 1522949761.0
+  }, 
+  {
+    "rating": 0.05, 
+    "text": "When she was just 3 years old, she disappeared on a busy street in China. 24 years later, she finally had an emotio\u2026 https://t.co/4DZvlz8mEb", 
+    "ts": 1522949333.0
+  }, 
+  {
+    "rating": 0.25, 
+    "text": "After this story published, Corey Lewandowski told CNN that Democrats on the committee were the first to use foul l\u2026 https://t.co/xqKqDxoX6T", 
+    "ts": 1522948973.0
+  }, 
+  {
+    "rating": 0.0, 
+    "text": "A jury has been selected in the retrial of Bill Cosby, who faces three counts of aggravated indecent assault\u2026 https://t.co/i4ZlMDqkxL", 
+    "ts": 1522948867.0
+  }, 
+  {
+    "rating": 0.17222222222222222, 
+    "text": "The island paradise of Boracay is shutting down temporarily over concerns the Philippine island's famous beaches an\u2026 https://t.co/kuTuq3mNPA", 
+    "ts": 1522948490.0
+  }, 
+  {
+    "rating": 0.125, 
+    "text": "Nicole Kidman showed her Instagram followers the first glimpse of Meryl Streep in character from the second season\u2026 https://t.co/Faai9Og2OI", 
+    "ts": 1522948058.0
+  }, 
+  {
+    "rating": -0.19999999999999998, 
+    "text": "RT @CNNMoney: Cutting ties with Facebook is more complicated than just deleting your account. https://t.co/EWWUzu0tus https://t.co/icW6GHrS\u2026", 
+    "ts": 1522947551.0
+  }, 
+  {
+    "rating": 0.0, 
+    "text": "\"Why is President Trump suddenly in a rush to get out of Syria? Could the answer ... lead us back to Russian Presid\u2026 https://t.co/mefRgvpvEN", 
+    "ts": 1522947396.0
+  }, 
+  {
+    "rating": 0.06818181818181818, 
+    "text": "Several EPA officials were reassigned, demoted or requested new positions themselves after raising concerns about E\u2026 https://t.co/jqnogvlbo8", 
+    "ts": 1522947146.0
+  }, 
+  {
+    "rating": 0.0, 
+    "text": "Oregon's governor says that if President Trump asks to dispatch members of her state's National Guard to the US sou\u2026 https://t.co/JzzKEFYAXq", 
+    "ts": 1522946906.0
+  }, 
+  {
+    "rating": 0.0, 
+    "text": "Donald Trump Jr. and Eric Trump have jetted to Dubai to attend a wedding for an Arab business magnate and business\u2026 https://t.co/gDe237ZD8c", 
+    "ts": 1522946810.0
+  }, 
+  {
+    "rating": 0.0, 
+    "text": "In a UN meeting on the poisoning of a former Russian spy and his daughter, Russia's UN Ambassador warned that \"we h\u2026 https://t.co/HnWYDmGXDV", 
+    "ts": 1522946739.0
+  }, 
+  {
+    "rating": 0.0, 
+    "text": "RT @CNNSitRoom: Trump confidant Corey Lewandowski to Democrats on the House Intel panel: I\u2019m not answering your \u201cf---ing\u201d questions\n\nThis p\u2026", 
+    "ts": 1522946363.0
+  }, 
+  {
+    "rating": 0.17500000000000002, 
+    "text": "As Facebook CEO Mark Zuckerberg prepares to step into the Capitol Hill hot seat, there are two clear case studies f\u2026 https://t.co/H5UhPuenjN", 
+    "ts": 1522946286.0
+  }, 
+  {
+    "rating": 0.0, 
+    "text": "President Trump said he was considering sending \"anywhere from 2,000 to 4,000\" National Guard troops to the souther\u2026 https://t.co/4TqpzGIWck", 
+    "ts": 1522946043.0
+  }, 
+  {
+    "rating": -0.375, 
+    "text": "An in-depth look at the Hart family's past steps reveals a complicated picture of a couple with six adopted childre\u2026 https://t.co/Bbc1OVRsKa", 
+    "ts": 1522945829.0
+  }, 
+  {
+    "rating": 0.024999999999999994, 
+    "text": "Tiger Woods had a battling first round 73 at the Masters as defending champion Sergio Garcia saw his chances disapp\u2026 https://t.co/JndpcUfGkM", 
+    "ts": 1522945481.0
+  }, 
+  {
+    "rating": -0.25, 
+    "text": "How to make the wage gap an injustice of the past | By Kimberly Churches via @CNNOpinion https://t.co/4XkjgRxcIs https://t.co/OWaa7F7Ewr", 
+    "ts": 1522945231.0
+  }, 
+  {
+    "rating": 0.0, 
+    "text": "President Trump repeats his debunked voter fraud claim during a roundtable discussion on tax reform in West Virgini\u2026 https://t.co/4UEPuZS4zz", 
+    "ts": 1522944520.0
+  }, 
+  {
+    "rating": 0.10714285714285714, 
+    "text": "Is a large crack that suddenly appeared in Kenya evidence that East Africa could be splitting in two?\u2026 https://t.co/hanjD5IPhN", 
+    "ts": 1522944271.0
+  }, 
+  {
+    "rating": 0.0, 
+    "text": "President Trump says he didn't know about the 130,000 dollar payment to porn star Stormy Daniels\u2026 https://t.co/AB19vG229Z", 
+    "ts": 1522943617.0
+  }, 
+  {
+    "rating": 0.0, 
+    "text": "Speaking about issues related to immigration, President Trump claims that women coming to the US \"are raped at leve\u2026 https://t.co/gv1FqNyrFz", 
+    "ts": 1522943349.0
+  }, 
+  {
+    "rating": 0.0, 
+    "text": "Trump confidant Corey Lewandowski to Democrats on the House Intel panel: I\u2019m not answering your \u201cf---ing\u201d questions\u2026 https://t.co/pL3bTGvhlw", 
+    "ts": 1522942700.0
+  }, 
+  {
+    "rating": -0.024999999999999994, 
+    "text": "A senior US general said President Trump has not given the US military a timeline for getting US troops out of Syri\u2026 https://t.co/PIY2uLgKQk", 
+    "ts": 1522942554.0
+  }, 
+  {
+    "rating": 0.0, 
+    "text": "BREAKING: President Trump says he did not know about a $130,000 payment made to porn star Stormy Daniels for her si\u2026 https://t.co/jaDzhg8jn7", 
+    "ts": 1522942302.0
+  }, 
+  {
+    "rating": 0.07878787878787878, 
+    "text": "Former Minnesota Republican Gov. Tim Pawlenty is looking for a new job -- his old one https://t.co/2qbH2NAapT https://t.co/phQ3dyDJNH", 
+    "ts": 1522942065.0
+  }, 
+  {
+    "rating": -0.05, 
+    "text": "There were no signs of foul play in the death of a CDC epidemiologist who likely drowned, officials said\u2026 https://t.co/36ldm3I4A0", 
+    "ts": 1522941463.0
+  }, 
+  {
+    "rating": 0.0, 
+    "text": "RT @TheLeadCNN: President Trump says female migrants 'are raped at levels that nobody has ever seen before' https://t.co/107HmoRfh2 https:/\u2026", 
+    "ts": 1522941117.0
+  }, 
+  {
+    "rating": 0.0, 
+    "text": "Michelle Obama is speaking at a college conference on leadership in Boston. Watch on Facebook:\u2026 https://t.co/m1htXnbBBv", 
+    "ts": 1522940899.0
+  }, 
+  {
+    "rating": -0.6499999999999999, 
+    "text": "Democratic Rep. Ruben Gallego: I'll work with President Trump \"when his ideas aren't stupid\" https://t.co/QxePK2Hzq1 https://t.co/0cB88NK6rG", 
+    "ts": 1522940658.0
+  }, 
+  {
+    "rating": 0.05333333333333334, 
+    "text": "The global box office hit a record high last year, but there were declines in revenue in North America, according t\u2026 https://t.co/FgnoufDjYZ", 
+    "ts": 1522940159.0
+  }, 
+  {
+    "rating": 0.35714285714285715, 
+    "text": "EPA Special Agent Eric Weese, who led Administrator Scott Pruitt\u2019s protection detail, was taken off that assignment\u2026 https://t.co/mJvaP7hNcL", 
+    "ts": 1522939763.0
+  }, 
+  {
+    "rating": -0.25, 
+    "text": "Democrats' victory parade looks like it will hit a wall in Arizona | Analysis by CNN's Harry Enten\u2026 https://t.co/MVaLaX5vP7", 
+    "ts": 1522939515.0
+  }, 
+  {
+    "rating": 0.02500000000000001, 
+    "text": "President Trump floated replacing Attorney General Jeff Sessions with EPA chief Scott Pruitt as recently as this we\u2026 https://t.co/BRC3TamuGf", 
+    "ts": 1522939144.0
+  }, 
+  {
+    "rating": 0.02500000000000001, 
+    "text": "BREAKING: President Trump floated replacing Attorney General Jeff Sessions with Scott Pruitt as recently as this we\u2026 https://t.co/nOaThWyG2S", 
+    "ts": 1522938827.0
+  }, 
+  {
+    "rating": 0.16666666666666666, 
+    "text": "Director Steven Spielberg says casting a female to play the iconic role of Indiana Jones could actually become a re\u2026 https://t.co/jUTp0qRNao", 
+    "ts": 1522938632.0
+  }, 
+  {
+    "rating": 0.0, 
+    "text": "Why John Kasich doesn't want to \"shut up and go away\" https://t.co/bZrglKUwOp https://t.co/Xh2bbsbGN7", 
+    "ts": 1522938064.0
+  }, 
+  {
+    "rating": 0.0, 
+    "text": "The Atlantic has parted ways with Kevin Williamson, the conservative columnist who faced a storm of controversy ove\u2026 https://t.co/szPpC5Z0QU", 
+    "ts": 1522937692.0
+  }, 
+  {
+    "rating": -0.1875, 
+    "text": "RT @CNNPolitics: President Trump throws out his prepared remarks in West Virginia: \"To hell with it ... that would have been a little borin\u2026", 
+    "ts": 1522937570.0
+  }, 
+  {
+    "rating": -0.2916666666666667, 
+    "text": "Cape Town diary: The 90-second shower habit is hard to break | By Raymond Joseph via @CNNOpinion\u2026 https://t.co/VrA60feD6p", 
+    "ts": 1522937323.0
+  }, 
+  {
+    "rating": 0.25857142857142856, 
+    "text": "The 17 victims of the shooting at Marjory Stoneman Douglas High School will be memorialized in a special issue of t\u2026 https://t.co/rDTTLTJl1x", 
+    "ts": 1522937249.0
+  }, 
+  {
+    "rating": 0.0, 
+    "text": "The personal data and payment information of Sears and Delta Air Lines customers may have been exposed in a data br\u2026 https://t.co/jtzS0aFCV4", 
+    "ts": 1522936487.0
+  }, 
+  {
+    "rating": 0.0, 
+    "text": "The NYPD is revising intelligence-gathering policies and training as part of a settlement in a federal civil rights\u2026 https://t.co/g7WA28CfZy", 
+    "ts": 1522935886.0
+  }, 
+  {
+    "rating": 0.0, 
+    "text": "The largest association of doctors in the United States says there is \"no medically valid reason\" to bar transgende\u2026 https://t.co/WINa9Zu9ZN", 
+    "ts": 1522935182.0
+  }, 
+  {
+    "rating": 0.0, 
+    "text": "President Trump is once again hitting a 2018 battleground state to tout his signature legislative accomplishment as\u2026 https://t.co/wFrGTYI462", 
+    "ts": 1522934841.0
+  }, 
+  {
+    "rating": 0.06818181818181818, 
+    "text": "How New England Patriots player Julian Edelman helped stop a potential school shooting https://t.co/lBNlXyBv5Q https://t.co/BYYv76jeeA", 
+    "ts": 1522934585.0
+  }, 
+  {
+    "rating": -0.04999999999999999, 
+    "text": "\"Much of the Trump-Hating Industrial Complex has already tried and convicted Pruitt on cable TV panels. ... What lu\u2026 https://t.co/mZ82vWzMLO", 
+    "ts": 1522934501.0
+  }, 
+  {
+    "rating": 0.5, 
+    "text": "A top aide to Environmental Protection Agency Administrator Scott Pruitt is resigning. \n\nThe news comes during a to\u2026 https://t.co/e1U4HoZhyS", 
+    "ts": 1522933984.0
+  }, 
+  {
+    "rating": 0.0, 
+    "text": "The White House is reviewing a proposal that would roll back protections for around 300 threatened species\u2026 https://t.co/HWWGhKOd54", 
+    "ts": 1522933384.0
+  }, 
+  {
+    "rating": 0.0, 
+    "text": "President Trump is participating in a roundtable discussion about tax cuts with business executives and workers in\u2026 https://t.co/JlD7J2sELy", 
+    "ts": 1522933074.0
+  }, 
+  {
+    "rating": 0.0, 
+    "text": "These women were asked to stop treating a collapsed official because females aren\u2019t allowed in sumo rings\u2026 https://t.co/3E8zb2TRea", 
+    "ts": 1522932782.0
+  }, 
+  {
+    "rating": 0.0, 
+    "text": "Yes, Facebook is scanning your messages https://t.co/UAU7ogwjyz https://t.co/lWjAzSGYFt", 
+    "ts": 1522932183.0
+  }, 
+  {
+    "rating": 0.0, 
+    "text": "An Illinois town just banned assault weapons. The penalty if you keep one? Up to $1,000 a day. https://t.co/hQWxOr9vbd", 
+    "ts": 1522931582.0
+  }, 
+  {
+    "rating": 0.0625, 
+    "text": "Amazon is not the first business to end up in President Trump's crosshairs. Here are 16 other companies the Preside\u2026 https://t.co/0j8JauHFjH", 
+    "ts": 1522931029.0
+  }, 
+  {
+    "rating": 0.0, 
+    "text": "The White House is reviewing a proposal that would roll back protections for around 300 threatened species\u2026 https://t.co/oDYNyvNpGd", 
+    "ts": 1522930369.0
+  }, 
+  {
+    "rating": 0.0, 
+    "text": "A Georgia man was charged with DUI after a bus he was driving to the Masters golf tournament overturned\u2026 https://t.co/GhQJY92lo7", 
+    "ts": 1522929605.0
+  }, 
+  {
+    "rating": -0.16666666666666666, 
+    "text": "The Mueller assurance on Trump means less than it looks | Analysis by @StCollinson https://t.co/ywOvCZ3vBc https://t.co/8Igudn1jsj", 
+    "ts": 1522929037.0
+  }, 
+  {
+    "rating": 0.0, 
+    "text": "A resolution condemning neo-Nazis and white nationalists has died a second time in the Tennessee legislature this w\u2026 https://t.co/4RZ4yE2y9h", 
+    "ts": 1522928403.0
+  }, 
+  {
+    "rating": 0.0, 
+    "text": "A body recovered this week from a river in Atlanta has been identified as 35-year-old Timothy Cunningham, the CDC e\u2026 https://t.co/UwqcMvLjEC", 
+    "ts": 1522927817.0
+  }, 
+  {
+    "rating": 0.0, 
+    "text": "Scott Pruitt is everything Trump loves in an underling. Also everything he hates. | Analysis by @CillizzaCNN\u2026 https://t.co/KHKtqKggAz", 
+    "ts": 1522927204.0
+  }, 
+  {
+    "rating": 0.0, 
+    "text": "A self-styled sex coach who claims to have insider knowledge of Moscow's attempts to meddle in the US election has\u2026 https://t.co/ldgfIBbO8p", 
+    "ts": 1522926724.0
+  }, 
+  {
+    "rating": -0.14999999999999997, 
+    "text": "\"I will gladly work with the President when his ideas aren't stupid and detrimental to the United States,\" says Rep\u2026 https://t.co/AJNFdbJCba", 
+    "ts": 1522926160.0
+  }, 
+  {
+    "rating": 0.2, 
+    "text": "President Trump grew irritated with his top military brass and national security team when they advised him an imme\u2026 https://t.co/XDFCJgudko", 
+    "ts": 1522925403.0
+  }, 
+  {
+    "rating": 0.0, 
+    "text": "The largest association of doctors in the United States says there is \"no medically valid reason\" to bar transgende\u2026 https://t.co/wkG3yxfyoF", 
+    "ts": 1522924802.0
+  }, 
+  {
+    "rating": 0.0, 
+    "text": "Family members of the woman who opened fire at YouTube's headquarters this week were stunned by news of the attack,\u2026 https://t.co/FFV1hgZzpM", 
+    "ts": 1522924508.0
+  }, 
+  {
+    "rating": 0.275, 
+    "text": "The US surgeon general has issued an advisory recommending that more Americans carry the opioid overdose-reversing\u2026 https://t.co/YhuK6G8PHQ", 
+    "ts": 1522923763.0
+  }, 
+  {
+    "rating": 0.13636363636363635, 
+    "text": "Why the new tax law could make your state tax bill go up https://t.co/o1ilEPoWV8 https://t.co/DIPH3h1si8", 
+    "ts": 1522923130.0
+  }, 
+  {
+    "rating": 0.2, 
+    "text": "President Trump wants it both ways on border crossings | Analysis by @zbyronwolf https://t.co/Zmgnsl0oxc https://t.co/HKlmpd3qcz", 
+    "ts": 1522923047.0
+  }, 
+  {
+    "rating": 0.5, 
+    "text": "The woman who became internet famous in October for flipping the bird at President Donald Trump's motorcade, and th\u2026 https://t.co/wUmAtp6wKE", 
+    "ts": 1522922462.0
+  }, 
+  {
+    "rating": 0.0, 
+    "text": "Facebook should have known about these Russia-linked pages months ago. It only just deleted them.\u2026 https://t.co/DyeFA5UVrz", 
+    "ts": 1522921808.0
+  }, 
+  {
+    "rating": 0.0, 
+    "text": "Australia launches investigation into Facebook over data scandal https://t.co/eouYyrUUg8 https://t.co/RJ4gji9uuJ", 
+    "ts": 1522921320.0
+  }, 
+  {
+    "rating": -0.07676767676767678, 
+    "text": "New York City police officers shot and killed a black man after he pointed what they believed was a gun at them, bu\u2026 https://t.co/0vmcc8ZwL6", 
+    "ts": 1522920676.0
+  }, 
+  {
+    "rating": 0.0, 
+    "text": "The White House is reviewing a proposal that would roll back protections for around 300 threatened species\u2026 https://t.co/y8ow4C5vGA", 
+    "ts": 1522920007.0
+  }, 
+  {
+    "rating": 0.5, 
+    "text": "A top aide to Environmental Protection Agency Administrator Scott Pruitt is resigning. \n\nThe news comes during a to\u2026 https://t.co/2IXQimwlTj", 
+    "ts": 1522919408.0
+  }, 
+  {
+    "rating": 0.049999999999999996, 
+    "text": "Tiger Woods is back at The Masters for the first time since 2015 after years spent struggling with injuries\u2026 https://t.co/ZWcjM54fyE", 
+    "ts": 1522919034.0
+  }, 
+  {
+    "rating": 0.06818181818181818, 
+    "text": "How New England Patriots player Julian Edelman helped stop a potential school shooting https://t.co/uugxP0aBjE https://t.co/8XhC277T58", 
+    "ts": 1522918395.0
+  }, 
+  {
+    "rating": 0.0, 
+    "text": "A month after the poisoning in the British town of Salisbury, the UK and Russia remain locked in battle over who to\u2026 https://t.co/HRwEzVIUu1", 
+    "ts": 1522917988.0
+  }, 
+  {
+    "rating": 0.0, 
+    "text": "TVs. Dishwashers. Printers. These are just some of the products that could get more expensive if the United States\u2026 https://t.co/HlXZ5En5wM", 
+    "ts": 1522917382.0
+  }, 
+  {
+    "rating": 0.18571428571428572, 
+    "text": "Exclusive: In an unusual step, special counsel Robert Mueller\u2019s team is questioning Russian oligarchs who traveled\u2026 https://t.co/xjgxAGv9RG", 
+    "ts": 1522916949.0
+  }, 
+  {
+    "rating": 0.1, 
+    "text": "How China gets what it wants from American companies https://t.co/tp0tWHUr24 https://t.co/SJcu0zjvTr", 
+    "ts": 1522916586.0
+  }, 
+  {
+    "rating": 0.0, 
+    "text": "JPMorgan Chase CEO Jamie Dimon: \"We need to resolve immigration \u2014 it is tearing apart our body politic and damaging\u2026 https://t.co/TgCJizCcSZ", 
+    "ts": 1522916005.0
+  }, 
+  {
+    "rating": 0.3, 
+    "text": "Shortly after Facebook announced stricter rules for its third-party developers, popular dating app Tinder stopped w\u2026 https://t.co/gnvvTtGbUK", 
+    "ts": 1522915679.0
+  }, 
+  {
+    "rating": 0.0, 
+    "text": "RT @NewDay: #FactsFirst: Alisyn Camerota has the border battle by the numbers. \n\nhttps://t.co/33JKV6dzXU https://t.co/bvaGEVfILv", 
+    "ts": 1522915619.0
+  }, 
+  {
+    "rating": -0.14999999999999997, 
+    "text": "\"I will gladly work with the President when his ideas aren't stupid and detrimental to the United States,\" says Rep\u2026 https://t.co/9wrE9MNhnw", 
+    "ts": 1522915234.0
+  }, 
+  {
+    "rating": -0.2, 
+    "text": "Facebook says that Cambridge Analytica, a data firm with ties to President Donald Trump's campaign, may have had in\u2026 https://t.co/etcjriwvUT", 
+    "ts": 1522914687.0
+  }, 
+  {
+    "rating": 0.0, 
+    "text": "FDA chief: Opioids are the \"biggest crisis facing the FDA\" https://t.co/C4E4oDvLbX https://t.co/Oi2EZVvibq", 
+    "ts": 1522914018.0
+  }, 
+  {
+    "rating": -0.5, 
+    "text": "Bollywood superstar Salman Khan could face prison time after being convicted of illegal poaching in a decades-old c\u2026 https://t.co/9T7PhPMgg4", 
+    "ts": 1522913942.0
+  }, 
+  {
+    "rating": 0.0, 
+    "text": "\"For whatever reasons... you've got Trump basically parroting what Putin says.\" Hillary Clinton slams President Tru\u2026 https://t.co/55zJdSIN92", 
+    "ts": 1522913395.0
+  }, 
+  {
+    "rating": 0.0, 
+    "text": "Planning a summer holiday to Boracay? Think again. https://t.co/uyvyG2tGZT", 
+    "ts": 1522912910.0
+  }, 
+  {
+    "rating": 0.3333333333333333, 
+    "text": "A Carl's Jr. employee was quick to act when a woman wounded in the YouTube shooting was helped into the fast-food r\u2026 https://t.co/3kHAcTVLD6", 
+    "ts": 1522912503.0
+  }, 
+  {
+    "rating": 0.2, 
+    "text": "Exclusive: A lawyer who cut deals for a porn star and Playmate over their alleged sexual encounters with Trump says\u2026 https://t.co/DGxJ2VLTX0", 
+    "ts": 1522912116.0
+  }, 
+  {
+    "rating": 0.0, 
+    "text": "RT @NewDay: \"That's a Mussolini tactic, not an American tactic\" says former Treasury Secretary Larry Summers on Trump's attacks on Amazon.\u2026", 
+    "ts": 1522912094.0
+  }, 
+  {
+    "rating": 0.0, 
+    "text": "The companies Trump has attacked on Twitter since his election:\n\nABC News\nAmazon\nBoeing\nCBS\nCNN\nComcast/MSNBC/NBC\nD\u2026 https://t.co/oJtxCWczmj", 
+    "ts": 1522911605.0
+  }, 
+  {
+    "rating": 0.25, 
+    "text": "Stevie Wonder has joined Twitter and his first tweet did not disappoint. https://t.co/XzYVu1OcOn", 
+    "ts": 1522911359.0
+  }, 
+  {
+    "rating": 0.0, 
+    "text": "The YouTube shooter visited a gun range before the attack, police say https://t.co/hpfGr9U5BG", 
+    "ts": 1522910975.0
+  }, 
+  {
+    "rating": 0.25, 
+    "text": "Stevie Wonder has joined Twitter and his first tweet did not disappoint. https://t.co/CeLvPVnQ1W https://t.co/y0K3Oe5ROj", 
+    "ts": 1522910406.0
+  }, 
+  {
+    "rating": 0.0, 
+    "text": "The number of migrants trying to illegally cross into the US at the Mexico border spiked dramatically in March, acc\u2026 https://t.co/YvJhy68gUm", 
+    "ts": 1522909810.0
+  }, 
+  {
+    "rating": 0.0, 
+    "text": "The caravan of Central American migrants going through Mexico to the US border is not ending. Some will stay in Mex\u2026 https://t.co/rtDFn4vblS", 
+    "ts": 1522909204.0
+  }, 
+  {
+    "rating": 0.0, 
+    "text": "A resolution condemning neo-Nazis and white nationalists has died a second time in the Tennessee legislature this w\u2026 https://t.co/eDmw4aakNi", 
+    "ts": 1522908608.0
+  }, 
+  {
+    "rating": 0.1, 
+    "text": "RT @NewDay: Jennifer Granholm says EPA chief Scott Pruitt is getting \"too big for his britches\": He \"wants to be President and this issue o\u2026", 
+    "ts": 1522908520.0
+  }, 
+  {
+    "rating": 0.0, 
+    "text": "5 things for Thursday:\n\n- Mexican border\n- YouTube shooting\n- Facebook\n- Russia investigation\n- Teacher protests\u2026 https://t.co/3WzJS00vY8", 
+    "ts": 1522908006.0
+  }, 
+  {
+    "rating": 0.5, 
+    "text": "The woman who became internet famous in October for flipping the bird at President Donald Trump's motorcade, and th\u2026 https://t.co/YL4y6xWp3Q", 
+    "ts": 1522907436.0
+  }, 
+  {
+    "rating": 0.0, 
+    "text": "A morning TV producer at a Sinclair-owned station in Nebraska has resigned in protest of what he calls the company'\u2026 https://t.co/u2uZjLuzqO", 
+    "ts": 1522906734.0
+  }, 
+  {
+    "rating": 0.0, 
+    "text": "Planned Parenthood President Cecile Richards says she felt bribed by Ivanka Trump and Jared Kushner, claiming they\u2026 https://t.co/5Z96Sbxco1", 
+    "ts": 1522905996.0
+  }, 
+  {
+    "rating": 0.0, 
+    "text": "A sterilization breach at a Denver hospital may have put patients at risk for infection of HIV, hepatitis B or hepa\u2026 https://t.co/cZrc7VnxD7", 
+    "ts": 1522905338.0
+  }, 
+  {
+    "rating": 0.6, 
+    "text": "A lawsuit alleges that a fertility doctor used his own sperm to inseminate his patient. A woman discovered through\u2026 https://t.co/9gB8peVTaF", 
+    "ts": 1522905305.0
+  }, 
+  {
+    "rating": -0.07676767676767678, 
+    "text": "New York City police officers shot and killed a black man after he pointed what they believed was a gun at them, bu\u2026 https://t.co/nMylCSKU6o", 
+    "ts": 1522904603.0
+  }, 
+  {
+    "rating": -0.125, 
+    "text": "Why trainloads of other people's poo have been rotting in an Alabama town for months https://t.co/uirq5ayFjb https://t.co/Cs3meW0vUC", 
+    "ts": 1522903983.0
+  }, 
+  {
+    "rating": 0.0, 
+    "text": "When an Oklahoma teacher revealed what the chairs in her classroom look like, she didn't imagine it would drive peo\u2026 https://t.co/yeD1V6LmK6", 
+    "ts": 1522903278.0
+  }, 
+  {
+    "rating": -0.1, 
+    "text": "Without immigration, our economy is in big trouble | By Dennis E. Nixon via @CNNOpinion https://t.co/vy9dRiqEmS https://t.co/gkb7rtc5kv", 
+    "ts": 1522902547.0
+  }, 
+  {
+    "rating": 0.0, 
+    "text": "When an Oklahoma teacher revealed what the chairs in her classroom look like, she didn't imagine it would drive peo\u2026 https://t.co/HYalV3LmVF", 
+    "ts": 1522899079.0
+  }, 
+  {
+    "rating": -0.5, 
+    "text": "Bollywood superstar Salman Khan could face prison time after being convicted of illegal poaching in a decades-old c\u2026 https://t.co/7op8RRx5so", 
+    "ts": 1522896967.0
+  }, 
+  {
+    "rating": -0.15555555555555559, 
+    "text": "The Bible appears to have been removed from online marketplaces in China, as Beijing clamps down on how its citizen\u2026 https://t.co/DdlRr8SzRo", 
+    "ts": 1522896005.0
+  }, 
+  {
+    "rating": 0.1708333333333333, 
+    "text": "The extraordinary story of a married Chinese couple reuniting with their daughter nearly 24 years after she went mi\u2026 https://t.co/QPr8AuuOzg", 
+    "ts": 1522895313.0
+  }, 
+  {
+    "rating": -0.2, 
+    "text": "Facebook says that Cambridge Analytica, a data firm with ties to President Donald Trump's campaign, may have had in\u2026 https://t.co/dQPuMjBaxw", 
+    "ts": 1522894927.0
+  }, 
+  {
+    "rating": 0.0, 
+    "text": "It was a night to forget for Manchester City, who also had their team bus attacked by Liverpool FC fans before the\u2026 https://t.co/HpGDfFJTLc", 
+    "ts": 1522894570.0
+  }, 
+  {
+    "rating": 0.0, 
+    "text": "Australia launches investigation into Facebook over data scandal https://t.co/B3GG8JPYCp https://t.co/1L0QV0fe4N", 
+    "ts": 1522893547.0
+  }, 
+  {
+    "rating": 0.25, 
+    "text": "Stevie Wonder has joined Twitter and his first tweet did not disappoint. https://t.co/fD0uXvmztj", 
+    "ts": 1522892585.0
+  }, 
+  {
+    "rating": 0.25, 
+    "text": "Dwayne \"The Rock\" Johnson is still interested in running for US president -- just maybe not in 2020\u2026 https://t.co/gcz80UpUHq", 
+    "ts": 1522891939.0
+  }, 
+  {
+    "rating": -0.6, 
+    "text": "Artificial intelligence scientists from around the world called for a boycott of a South Korean university over con\u2026 https://t.co/EyuJx8wYkg", 
+    "ts": 1522891021.0
+  }, 
+  {
+    "rating": 0.0, 
+    "text": "A month after the poisoning in the British town of Salisbury, the UK and Russia remain locked in battle over who to\u2026 https://t.co/7lYWRHpL7Y", 
+    "ts": 1522890722.0
+  }, 
+  {
+    "rating": 0.5, 
+    "text": "The woman who became internet famous in October for flipping the bird at President Donald Trump's motorcade, and th\u2026 https://t.co/X70HLiRFoX", 
+    "ts": 1522890066.0
+  }, 
+  {
+    "rating": 0.0, 
+    "text": "There's a growing trend of out-of-the-blue policy edicts issued by an increasingly imperious President, who has app\u2026 https://t.co/S3wzVhfR6V", 
+    "ts": 1522889868.0
+  }, 
+  {
+    "rating": 0.0625, 
+    "text": "Amazon is not the first business to end up in President Trump's crosshairs. Here are 16 other companies the Preside\u2026 https://t.co/PxxMNMHoug", 
+    "ts": 1522889166.0
+  }
+]

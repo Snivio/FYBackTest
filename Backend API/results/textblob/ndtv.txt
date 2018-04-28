@@ -1,0 +1,1006 @@
+[
+  {
+    "bot_percentage": 0, 
+    "profileimage": "http://pbs.twimg.com/profile_images/570440108424171520/QuGYd7jH_400x400.png"
+  }, 
+  {
+    "rating": 0.5, 
+    "text": "Top stories now on https://t.co/Fbzw6mR9Q5 \n\n#NDTVTopStories https://t.co/uChmbnWjRG", 
+    "ts": 1522990862.0
+  }, 
+  {
+    "rating": 0.0, 
+    "text": "#Apple said to be developing screens that let you control your phone without tapping or swiping\u2026 https://t.co/E0oYIS3sfP", 
+    "ts": 1522990800.0
+  }, 
+  {
+    "rating": 0.0, 
+    "text": "South Korean court jails former President Park Geun-Hye for 24 years over bribery https://t.co/0pIyjMLCiI https://t.co/EV9rE0Dkna", 
+    "ts": 1522990749.0
+  }, 
+  {
+    "rating": 0.0, 
+    "text": "Army helicopter makes an emergency landing in Tamil Nadu's Vellore, reports news agency ANI https://t.co/S9Cbwl23hW", 
+    "ts": 1522990572.0
+  }, 
+  {
+    "rating": 0.0, 
+    "text": "RT @CricketNDTV: .@mipaltan vs @ChennaiIPL: @IPL 2018 starts with clash of titans #IPL #IPL2018\n\nhttps://t.co/8qXI49fc7p", 
+    "ts": 1522990528.0
+  }, 
+  {
+    "rating": 0.0, 
+    "text": "Facebook apologises after Myanmar groups blast Zuckerberg https://t.co/WWkoSdlJGw https://t.co/t1DoSEZYFB", 
+    "ts": 1522990358.0
+  }, 
+  {
+    "rating": 0.4, 
+    "text": "RT @Sports_NDTV: 2018 Commonwealth Games: Indo-Pak rivalry set to light up hockey competition\n\n#indvspak\n#cwg2018 india\n#CWG2018\n\nREAD: htt\u2026", 
+    "ts": 1522990185.0
+  }, 
+  {
+    "rating": 0.25, 
+    "text": "RT @NDTVProfit: Sensex closes 30 points higher, Nifty settles at 10,331; pharma stocks lead gains", 
+    "ts": 1522989952.0
+  }, 
+  {
+    "rating": 0.0, 
+    "text": "RT @moviesndtv: After Blackbuck Verdict, Stars Spotted At Salman Khan's Home: Malaika Arora, Sonakshi Sinha, Sneha Ullal https://t.co/XouNj\u2026", 
+    "ts": 1522989940.0
+  }, 
+  {
+    "rating": -0.16666666666666666, 
+    "text": "At the centre of our galaxy, there's a Black hole party https://t.co/QkzhdLvjcn https://t.co/niBOuRVL5T", 
+    "ts": 1522989833.0
+  }, 
+  {
+    "rating": 0.0, 
+    "text": "\"Sacrifice for the nation, sacrifice for the nation's security and integrity are the part of the BJP's DNA\", says U\u2026 https://t.co/uz2EhB178j", 
+    "ts": 1522989141.0
+  }, 
+  {
+    "rating": 0.35, 
+    "text": "RT @moviesndtv: Preity Zinta In Jodhpur Where Salman Khan Is Jailed. 'True Friendship,' Says Twitter https://t.co/0atn5q3NQ2 https://t.co/2\u2026", 
+    "ts": 1522988966.0
+  }, 
+  {
+    "rating": 0.0, 
+    "text": "RT @carandbike: We take a look at how @FordIndia #Freestyle and @MSArenaOfficial #Ignis compare on paper in terms of looks, features, safet\u2026", 
+    "ts": 1522987902.0
+  }, 
+  {
+    "rating": 0.0, 
+    "text": "RT @CricketNDTV: #IPL2018, Team Profile: Star studded @lionsdenkxip hope to forget dismal last season\n\nREAD: https://t.co/yEEGl9jvI4 https:\u2026", 
+    "ts": 1522987709.0
+  }, 
+  {
+    "rating": 0.0, 
+    "text": "RT @Gadgets360: Facebook Acknowledges It Deleted Messages Mark Zuckerberg Sent\nhttps://t.co/mkkvuaZxdq", 
+    "ts": 1522987624.0
+  }, 
+  {
+    "rating": -0.5, 
+    "text": "RT @Sports_NDTV: Indian weightlifter #SaraswatiRout fails to lift 78kg in all three attempts in snatch, exits women's 58kg competition\n\n#GC\u2026", 
+    "ts": 1522987482.0
+  }, 
+  {
+    "rating": 0.5, 
+    "text": "Top stories now on https://t.co/Fbzw6mR9Q5 \n\n#NDTVTopStories https://t.co/B8Q308Qms1", 
+    "ts": 1522987246.0
+  }, 
+  {
+    "rating": 0.0, 
+    "text": "UP man bites off brother's nose, attacks father after denied money for alcohol https://t.co/o3UnTR5ZEo https://t.co/GpHLgbuZkM", 
+    "ts": 1522987201.0
+  }, 
+  {
+    "rating": 0.3181818181818182, 
+    "text": "2018 Commonwealth Games | Here\u2019s a look at latest medal tally on Day 2 of #GC2018 #CWG2018\n\nTrack LIVE updates here\u2026 https://t.co/hxRfZzI9dB", 
+    "ts": 1522987070.0
+  }, 
+  {
+    "rating": 0.3, 
+    "text": "RT @CricketNDTV: .@IPL 2018 Team Profile: @DelhiDaredevils look to @GautamGambhir for success #IPL #IPL2018\n\nhttps://t.co/ihdHochSZq", 
+    "ts": 1522986925.0
+  }, 
+  {
+    "rating": 0.0, 
+    "text": "#JustIn | Clashes erupt along Gaza-Israel border as protests begin: news agency AFP", 
+    "ts": 1522986833.0
+  }, 
+  {
+    "rating": 0.0, 
+    "text": "15 years after Saddam Hussein's fall, Iraqi hopes fade https://t.co/gHocw8pxMq https://t.co/kSsJFZTRXP", 
+    "ts": 1522986732.0
+  }, 
+  {
+    "rating": 0.0, 
+    "text": "Chinese double amputee Xia Boyu to climb Everest after ban revoked\nhttps://t.co/iwdOhCpenK https://t.co/1LttMLgDoY", 
+    "ts": 1522986661.0
+  }, 
+  {
+    "rating": -0.2, 
+    "text": "RT @Sports_NDTV: #GC2018: #AmitPanghal of India beats Tetteh Sulemanu of Ghana with a 5-0 score in Men's 46-49kg Round of 16\n\n#gc2018boxing\u2026", 
+    "ts": 1522986599.0
+  }, 
+  {
+    "rating": 0.0, 
+    "text": "Nepal Prime Minister K P Sharma Oli arrives in India, trade deficit, connectivity likely on agenda\u2026 https://t.co/zKaVp7b3CI", 
+    "ts": 1522986250.0
+  }, 
+  {
+    "rating": 0.0, 
+    "text": "RT @CricketNDTV: .@IPL 2018, Team Profile: @SunRisers Hyderabad, the relentless competitors #IPL2018 #IPL\n\nhttps://t.co/6jb1oFZajy", 
+    "ts": 1522986031.0
+  }, 
+  {
+    "rating": 0.13636363636363635, 
+    "text": "India, Singapore to explore new areas of cooperation during PM Modi's June visit https://t.co/9W6Ouoq7Rs https://t.co/H30Nv4z4Ko", 
+    "ts": 1522985842.0
+  }, 
+  {
+    "rating": -0.2, 
+    "text": "\"Punishment too harsh\": Ex-cricketer Shoaib Akhtar on \"friend\" #SalmanKhan #BlackBuckPoachingCase\u2026 https://t.co/W3I3TnxQdI", 
+    "ts": 1522985838.0
+  }, 
+  {
+    "rating": 0.13636363636363635, 
+    "text": "India, Singapore to explore new areas of cooperation during PM Modi's June visit https://t.co/ZjXFFY5XNn https://t.co/wXE3bYNo1N", 
+    "ts": 1522985735.0
+  }, 
+  {
+    "rating": 0.2, 
+    "text": "WATCH | Protest vs protest in parliament: BJP MPs to fast, Congress boycotts tea https://t.co/LZL9ERPyVJ https://t.co/HK3rbeDFjw", 
+    "ts": 1522985677.0
+  }, 
+  {
+    "rating": 0.1, 
+    "text": "Chanda Kochhar's brother-in-law arrives early on Day 2 of CBI questioning https://t.co/IuAAYZ8X6u https://t.co/fJzz74w84n", 
+    "ts": 1522985655.0
+  }, 
+  {
+    "rating": -0.1, 
+    "text": "A group of farmers in Tamil Nadu's Trichy partially buried themselves in the sand on the banks of #Cauvery river pr\u2026 https://t.co/wDSDeo2fqs", 
+    "ts": 1522985600.0
+  }, 
+  {
+    "rating": -0.25, 
+    "text": "RT @Sports_NDTV: #GC2018: #DipikaPallikal of India loses her women's singles round of 16 match 3-11, 6-11, 2-11 to England's Alison Waters\u2026", 
+    "ts": 1522985381.0
+  }, 
+  {
+    "rating": -0.06666666666666665, 
+    "text": "RT @moviesndtv: #Missing Review: \u201cThe brilliance of #Tabu and @BajpayeeManoj make a flawed film gripping,\u201d writes Saibal Chatterjee \u2013 3 Sta\u2026", 
+    "ts": 1522985376.0
+  }, 
+  {
+    "rating": 0.0, 
+    "text": "RT @Sports_NDTV: #CommonwealthGames 2018: India outclass Scotland 5-0 to enter mixed team badminton quarters\n\n#GC2018badminton #cwg2018 \n\nR\u2026", 
+    "ts": 1522985231.0
+  }, 
+  {
+    "rating": 0.0, 
+    "text": "Lead story now on https://t.co/Fbzw6mR9Q5: https://t.co/NBxtyvdZ76\n\n#NDTVLeadStory https://t.co/4rMON3ABTE", 
+    "ts": 1522984922.0
+  }, 
+  {
+    "rating": 0.0, 
+    "text": "How this town got stuck with 10 million pounds of human poop https://t.co/CkO7uOrpKR https://t.co/BlqpPAN7Fw", 
+    "ts": 1522984857.0
+  }, 
+  {
+    "rating": 0.3181818181818182, 
+    "text": "RT @Gadgets360: HP has announced its new ZBook convertible and laptops. The devices are meant for creative professionals. https://t.co/Rr0O\u2026", 
+    "ts": 1522984618.0
+  }, 
+  {
+    "rating": 0.1, 
+    "text": "RT @carandbike: .@Olacabs offers an in-trip insurance cover to its users, across all categories viz. cabs, auto, kaali-peeli, and e-ricksha\u2026", 
+    "ts": 1522984486.0
+  }, 
+  {
+    "rating": -0.1, 
+    "text": "WATCH | For Cauvery board, Tamil Nadu farmers partially bury themselves in sand https://t.co/zplRSDNcQg https://t.co/Tnjm2VSzbD", 
+    "ts": 1522984331.0
+  }, 
+  {
+    "rating": 0.0, 
+    "text": "Man found beheaded in Kashmir orchard, 2 days after kidnapping by Lashkar https://t.co/QZR7d8Va7r https://t.co/sYVz6ExOVC", 
+    "ts": 1522984208.0
+  }, 
+  {
+    "rating": 0.04999999999999999, 
+    "text": "RT @Sports_NDTV: #GC2018: India's #JoshnaChinappa wins the #GC2018Squash women's singles round of 16 match vs Tamika Saxby of Australia\n\nLi\u2026", 
+    "ts": 1522983864.0
+  }, 
+  {
+    "rating": 0.5, 
+    "text": "Top stories now on https://t.co/Fbzw6mR9Q5 \n\n#NDTVTopStories https://t.co/vgTxwgPhp0", 
+    "ts": 1522983629.0
+  }, 
+  {
+    "rating": 0.1, 
+    "text": "Why Donald Trump went after Jeff Bezos: Two billionaires across a cultural divide\nhttps://t.co/aEQF0R1DbN https://t.co/yJTLmoI0ij", 
+    "ts": 1522983600.0
+  }, 
+  {
+    "rating": -0.03181818181818183, 
+    "text": "RT @Sports_NDTV: #GC2018Squash women's singles round of 16: #DipikaPallikal of India faces England's Alison Waters\n\n#GC2018 \n\nLive: https:/\u2026", 
+    "ts": 1522983575.0
+  }, 
+  {
+    "rating": 0.06818181818181818, 
+    "text": "#DeepakLather claims bronze, gives India fourth weightlifting medal\n#GC2018 #CWG2018\n\nTrack LIVE updates here:\u2026 https://t.co/Mq5WgHSJV0", 
+    "ts": 1522983541.0
+  }, 
+  {
+    "rating": -0.1, 
+    "text": "RT @NdtvLivestream: Another night in jail for Salman Khan. Tweet us your views @NdtvLivestream @AnkitaNDTV https://t.co/n98gAyvX4C", 
+    "ts": 1522983361.0
+  }, 
+  {
+    "rating": -0.20000000000000004, 
+    "text": "RT @Sports_NDTV: #GC2018Squash women's singles round of 16: India's #JoshnaChinappa takes the second game 11-8 vs Tamika Saxby of Australia\u2026", 
+    "ts": 1522983323.0
+  }, 
+  {
+    "rating": 0.25, 
+    "text": "Watch | First impressions of Irrfan Khan\u2019s #Blackmail https://t.co/fDcSIdIApD", 
+    "ts": 1522982868.0
+  }, 
+  {
+    "rating": -0.012499999999999997, 
+    "text": "RT @Sports_NDTV: #GC2018: India's #JoshnaChinappa wins the first game of round of 16 women's singles match 11-6 against Tamika Saxby of Aus\u2026", 
+    "ts": 1522982799.0
+  }, 
+  {
+    "rating": 0.0, 
+    "text": "RT @Gadgets360: HP Upgrades ZBook Lineup for Professionals\nhttps://t.co/Rr0OEsYj5m", 
+    "ts": 1522982516.0
+  }, 
+  {
+    "rating": 0.0, 
+    "text": "RT @Gadgets360: OnePlus 6 Alert Slider to Offer 'Slide to Focus' Option, Hints Company https://t.co/DCDo2Bn2Qc", 
+    "ts": 1522982307.0
+  }, 
+  {
+    "rating": -0.2, 
+    "text": "RT @Sports_NDTV: #GC2018: India's #JoshnaChinappa takes on Tamika Saxby of Australia in the Women's Singles Round of 16\n\n#GC2018Squash \n\nLi\u2026", 
+    "ts": 1522982282.0
+  }, 
+  {
+    "rating": -0.07500000000000001, 
+    "text": "Drunk man jumps into pool full of crocodiles. Arm ripped off but survives\nhttps://t.co/zo6VTkx0jR https://t.co/LEUWC2vLhI", 
+    "ts": 1522982280.0
+  }, 
+  {
+    "rating": 0.0, 
+    "text": "RT @Sports_NDTV: India trounce Malaysia in women's hockey #gc2018 #GC2018hockey\n\nhttps://t.co/nn37DPQ9TQ https://t.co/AgTGL8bWhj", 
+    "ts": 1522982251.0
+  }, 
+  {
+    "rating": 0.0, 
+    "text": "RT @CricketNDTVLive: 1st ODI: Smriti Mandhana hits Sophie Ecclestone for a 6!  52/2 (9.4 Ov) #INDWvENGW https://t.co/zCCTWjbxZk https://t.c\u2026", 
+    "ts": 1522982206.0
+  }, 
+  {
+    "rating": 0.0, 
+    "text": "A Japanese woman tried to save a man's life in the sumo ring, but was ordered away for being 'unclean'\u2026 https://t.co/NR2UfFg4cK", 
+    "ts": 1522982201.0
+  }, 
+  {
+    "rating": 0.0, 
+    "text": "RT @CricketNDTVLive: 1st ODI: After 10.0 Ov, India Women 52/2. Smriti Mandhana 29 (30b), Harmanpreet Kaur 0 (0b) #INDWvENGW https://t.co/zC\u2026", 
+    "ts": 1522982196.0
+  }, 
+  {
+    "rating": 0.0, 
+    "text": "RT @NDTVFood: 5 #Essential Post #Workout Recovery #Foods.\nhttps://t.co/GGNYtrraYv https://t.co/szNXxgpOm8", 
+    "ts": 1522982110.0
+  }, 
+  {
+    "rating": -0.05, 
+    "text": "RT @NDTVProfit: PNB Fraud: Government Asks Hong Kong To Arrest Nirav Modi\nhttps://t.co/YNMZdAbviN", 
+    "ts": 1522982100.0
+  }, 
+  {
+    "rating": 0.13636363636363635, 
+    "text": "RT @Gadgets360: You can now buy the new Nokia 6 (2018) in India. Here's our unboxing video: https://t.co/nlCnCXYKbo", 
+    "ts": 1522982081.0
+  }, 
+  {
+    "rating": 0.0, 
+    "text": "Kolkata woman's body kept in freezer at home; husband, son lived with it for 2 years https://t.co/AzYmRT0PtM https://t.co/85v8OSl1Cr", 
+    "ts": 1522981328.0
+  }, 
+  {
+    "rating": 0.8, 
+    "text": "#Blog: Salman Khan's conviction is a victory to be proud of - by @SwatiWild https://t.co/pkGu2nuf45 https://t.co/k7ZJv8ArM6", 
+    "ts": 1522981214.0
+  }, 
+  {
+    "rating": -0.5, 
+    "text": "RT @Sports_NDTV: #CommonwealthGames 2018: Sad I couldn't break all games records, says Sanjita Chanu\n\n#CWG2018 #GC2018 #SanjitaChanu\n\nREAD:\u2026", 
+    "ts": 1522981063.0
+  }, 
+  {
+    "rating": 0.13636363636363635, 
+    "text": "Watch | Stars of '#LostInSpace' Molly Parker and Toby Stephens on their new mission https://t.co/fdTnmJe7ms", 
+    "ts": 1522981005.0
+  }, 
+  {
+    "rating": -0.1, 
+    "text": "Boy, 7, tries to recreate pic from when he was 2, gets stuck in hole\nhttps://t.co/ophqtafJ2a https://t.co/PbqEeKVXDU", 
+    "ts": 1522981000.0
+  }, 
+  {
+    "rating": 0.5, 
+    "text": "This is a news alert. More details to follow.  #JustIn #NDTVNews https://t.co/Ze9ZgikSX5", 
+    "ts": 1522980978.0
+  }, 
+  {
+    "rating": 0.0, 
+    "text": "Maharashtra woman fought off big cat with a stick. Then took a selfie\nhttps://t.co/2YdfsNxV5M https://t.co/a6yKP74xhv", 
+    "ts": 1522980894.0
+  }, 
+  {
+    "rating": 0.0, 
+    "text": "RT @Sports_NDTV: India blank Scotland 5-0 in the Badminton Mixed Team Event, Group A\n\n#GC2018 #GC2018Badminton\n\nLive: https://t.co/PmLNYihN\u2026", 
+    "ts": 1522980254.0
+  }, 
+  {
+    "rating": 0.5, 
+    "text": "Top stories now on https://t.co/Fbzw6mR9Q5 \n\n#NDTVTopStories https://t.co/2atDkBXZrR", 
+    "ts": 1522980013.0
+  }, 
+  {
+    "rating": 0.3, 
+    "text": "In Delhi, robbers loot cash, jewellery worth Rs. 35 lakh at gunpoint https://t.co/n1GjC4YrGW https://t.co/uGQLCfoBjk", 
+    "ts": 1522980001.0
+  }, 
+  {
+    "rating": 0.0, 
+    "text": "UP man bites off brother's nose, attacks father after denied money for alcohol https://t.co/o3UnTR5ZEo https://t.co/xQpoKqIsSm", 
+    "ts": 1522980000.0
+  }, 
+  {
+    "rating": 0.0, 
+    "text": "Man found beheaded in Kashmir orchard, 2 days after kidnapping by Lashkar https://t.co/QZR7d8Va7r https://t.co/c4ELF8mAtx", 
+    "ts": 1522979961.0
+  }, 
+  {
+    "rating": -0.16666666666666666, 
+    "text": "RT @Gadgets360: The GoPro Hero6 Black boasts of 4K video capture at 60fps and 1080p video at 240fps. We review https://t.co/bDxzO7n8f4 http\u2026", 
+    "ts": 1522979748.0
+  }, 
+  {
+    "rating": 0.0, 
+    "text": "#GC2018 Women's Pool A hockey match: #GurjitKaur scores a brace as dominant India beat Malaysia 4-1 #GC2018hockey\u2026 https://t.co/6aIxLSm9zb", 
+    "ts": 1522979377.0
+  }, 
+  {
+    "rating": 0.35714285714285715, 
+    "text": "TDP MPs stage a \"dharna\" in Lok Sabha Speaker's chamber over special category status for Andhra Pradesh (ANI) https://t.co/hrlQdvZ5N5", 
+    "ts": 1522979259.0
+  }, 
+  {
+    "rating": -0.1, 
+    "text": "RT @moviesndtv: Kapil Sharma's Show To Go Off Air Sooner Than Expected? Details Here https://t.co/fakkXYlt82 https://t.co/H4pStGnhS4", 
+    "ts": 1522979056.0
+  }, 
+  {
+    "rating": -0.05000000000000001, 
+    "text": "RT @Sports_NDTV: India vs Scotland, Badminton Mixed Team Event, Group A: The pair of Pranaav Chopra and N Sikki Reddy takes the first game\u2026", 
+    "ts": 1522979054.0
+  }, 
+  {
+    "rating": 0.0, 
+    "text": "Donald Trump Says He Didn't Know His Attorney Paid $130,000 To Porn Star Stormy Daniels https://t.co/LumWQwyplZ\u2026 https://t.co/ITH8cJ56ou", 
+    "ts": 1522978936.0
+  }, 
+  {
+    "rating": 0.0, 
+    "text": "Salman Khan refused 'dal-roti' dinner, 'khichdi' breakfast: report\nhttps://t.co/XxZ6NdlkHO https://t.co/uiiyOKFdMd", 
+    "ts": 1522978800.0
+  }, 
+  {
+    "rating": 0.0, 
+    "text": "RT @Sports_NDTV: #CommonwealthGames 2018: Deepak Lather claims bronze, gives India fourth weightlifting medal\n\n#GC2018 #CWG2018  #DeepakLat\u2026", 
+    "ts": 1522978474.0
+  }, 
+  {
+    "rating": 0.35714285714285715, 
+    "text": "Chandrababu Naidu hops on bicycle to intensify protest for special status https://t.co/TRNUkS5sGo\n\n#AndhraPradesh https://t.co/pAMWv1vI86", 
+    "ts": 1522978444.0
+  }, 
+  {
+    "rating": 0.1, 
+    "text": "Why Donald Trump went after Jeff Bezos: Two billionaires across a cultural divide https://t.co/jWAfBM2D7g https://t.co/WVOi58YqZA", 
+    "ts": 1522978254.0
+  }, 
+  {
+    "rating": 0.0, 
+    "text": "#JustIn | South Africa's Jacob Zuma arrives at court for graft hearing: news agency AFP", 
+    "ts": 1522978245.0
+  }, 
+  {
+    "rating": -0.25, 
+    "text": "\"Zombie-like\" raccoons are terrorising residents of this small town https://t.co/gQ8cou2E5j https://t.co/axQ72PAgUq", 
+    "ts": 1522978202.0
+  }, 
+  {
+    "rating": 0.35714285714285715, 
+    "text": "YSRCP Lok Sabha MPs submit their resignations to Speaker Sumitra Mahajan over special status for Andhra Pradesh (AN\u2026 https://t.co/Mt6kbRuvdq", 
+    "ts": 1522978102.0
+  }, 
+  {
+    "rating": 0.0, 
+    "text": "Mohammed bin Salman, reformist prince who has shaken Saudi Arabia\nhttps://t.co/Rk8umZejg2 https://t.co/1QzMH4SQ6U", 
+    "ts": 1522977999.0
+  }, 
+  {
+    "rating": 0.0, 
+    "text": "All party meeting over setting up of #CauveryManagementBoard underway in Chennai (ANI)\n\n#CauveryIssue https://t.co/yjjSOitKRJ", 
+    "ts": 1522977926.0
+  }, 
+  {
+    "rating": 0.0, 
+    "text": "RT @Sports_NDTV: India vs Scotland, Badminton Mixed Team Event, Group A: The pair of Satwik Rankireddy and Chirag Chandrashekhar Shetty ext\u2026", 
+    "ts": 1522977863.0
+  }, 
+  {
+    "rating": 0.0, 
+    "text": "RT @bandbaajaa: In Pics: Ishqbaaaz Actor Nakuul Mehta And Wife Jankee Are Holidaying In Japan\nhttps://t.co/LiAvJlXv1C\n#bandbaajaa #bbweddin\u2026", 
+    "ts": 1522977445.0
+  }, 
+  {
+    "rating": -0.2, 
+    "text": "Body of 4-year-old girl found with hands missing, 300 metres from home https://t.co/OeQ1K2w4Mk https://t.co/pHLK4vv5gB", 
+    "ts": 1522977220.0
+  }, 
+  {
+    "rating": 0.3, 
+    "text": "RT @Sports_NDTV: #CommonwealthGames2018: India's #DeepakLather wins weightlifting bronze medal in men's 69kg category\n\n#GC2018 #CWG18 \n\nhtt\u2026", 
+    "ts": 1522977119.0
+  }, 
+  {
+    "rating": 0.0, 
+    "text": "\"Bomb to Brisbane\" read label on bag at airport. Grandma meant Bombay\nhttps://t.co/G26IZBwTpS https://t.co/hBI3VV912l", 
+    "ts": 1522976987.0
+  }, 
+  {
+    "rating": 0.1, 
+    "text": "RT @Gadgets360: LG Mobile Days Sale on Amazon Offers Discounts on These Smartphones\nhttps://t.co/LWB2gZbAG4", 
+    "ts": 1522976786.0
+  }, 
+  {
+    "rating": 0.0, 
+    "text": "RT @carandbike: The @MSArenaOfficial #Vitara is above the 4-metre mark and competes in the compact SUV space, with the likes of @HyundaiInd\u2026", 
+    "ts": 1522976712.0
+  }, 
+  {
+    "rating": 0.0, 
+    "text": "Rahul Gandhi and the neat trick with the garland: Video is viral https://t.co/pOdSNZqUa5 https://t.co/DdmYwVl96C", 
+    "ts": 1522976482.0
+  }, 
+  {
+    "rating": 0.5, 
+    "text": "Top stories now on https://t.co/Fbzw6mR9Q5 \n\n#NDTVTopStories https://t.co/GUD4WhPSSi", 
+    "ts": 1522976386.0
+  }, 
+  {
+    "rating": -0.4, 
+    "text": "\"All behind me now\" Commonwealth Games dancer laughs off viral bum flash\nhttps://t.co/bjR5ERdQNI https://t.co/CokoYHL4ux", 
+    "ts": 1522976341.0
+  }, 
+  {
+    "rating": 0.2, 
+    "text": "China says it is ready to pay \"any cost\" in trade war with US https://t.co/jKiTFKL6O0 https://t.co/6Nv2nQwRpx", 
+    "ts": 1522976279.0
+  }, 
+  {
+    "rating": 0.0, 
+    "text": "A Japanese woman tried to save a man's life in the sumo ring, but was ordered away for being 'unclean'\u2026 https://t.co/ajHIsLWIYR", 
+    "ts": 1522976184.0
+  }, 
+  {
+    "rating": -0.04444444444444443, 
+    "text": "RT @Sports_NDTV: #GC2018: India's #DeepakLather fails in his third Clean and Jerk attempt to lift 162 kg, still in contention for a bronze\u2026", 
+    "ts": 1522976173.0
+  }, 
+  {
+    "rating": 0.0, 
+    "text": "Mumbai warned of traffic jams ahead of mega BJP event https://t.co/NUQRyq7xUk https://t.co/1akLikGlA8", 
+    "ts": 1522976134.0
+  }, 
+  {
+    "rating": 0.13333333333333333, 
+    "text": "#SalmanKhan to spend 2nd night in jail, bail hearing tomorrow\n\nHere are the top 10 updates on Salman Khan\u2026 https://t.co/dt1XB4ZGui", 
+    "ts": 1522975983.0
+  }, 
+  {
+    "rating": 0.0, 
+    "text": "RT @Gadgets360: Xiaomi Mi 7 to Sport an Under-Display Fingerprint Sensor, CEO Hints https://t.co/tGjsTv1nbR", 
+    "ts": 1522975879.0
+  }, 
+  {
+    "rating": 0.35000000000000003, 
+    "text": "RT @Sports_NDTV: India vs Scotland, Badminton Mixed Team Event, Group A: Satwik Rankireddy and Chirag Chandrashekhar Shetty win the first g\u2026", 
+    "ts": 1522975871.0
+  }, 
+  {
+    "rating": -0.5, 
+    "text": "\"You'll be sorry\": Russia to Britain in showdown at UN over spy poisoning https://t.co/3RoDn7P4uc https://t.co/a7wtbC9IHL", 
+    "ts": 1522975749.0
+  }, 
+  {
+    "rating": 0.0, 
+    "text": "#SanjitaChanu gives India 2nd gold in weightlifting https://t.co/4YihR8DNFf\n\n#CommonwealthGames2018 #CG2018 https://t.co/0B4h00uPHV", 
+    "ts": 1522975608.0
+  }, 
+  {
+    "rating": 0.0, 
+    "text": "RT @Sports_NDTV: #GC2018, Women's Pool A hockey match: #GurjitKaur scores a brace as dominant India beat Malaysia 4-1\n\n#GC2018hockey\n\nLive:\u2026", 
+    "ts": 1522975554.0
+  }, 
+  {
+    "rating": 0.0, 
+    "text": "In this Cambodian town, tarantulas may go off menu. Here's why https://t.co/kLF3K62dcs https://t.co/Vok01Q8Y9H", 
+    "ts": 1522975542.0
+  }, 
+  {
+    "rating": 0.37222222222222223, 
+    "text": "RT @Sports_NDTV: #GC2018: India's #DeepakLather successfully lifts 159 kg in his second Clean and Jerk attempt\n\n#GC2018weightlifting\n\nLive:\u2026", 
+    "ts": 1522975431.0
+  }, 
+  {
+    "rating": 0.13333333333333333, 
+    "text": "Salman Khan to spend another night in Jodhpur Central Jail, bail plea hearing tomorrow \n\nRead more here:\u2026 https://t.co/zfI8aEbAtm", 
+    "ts": 1522975227.0
+  }, 
+  {
+    "rating": 0.13333333333333333, 
+    "text": "#SalmanKhan to spend 2nd night in jail, bail hearing tomorrow\n\nHere are the top 10 updates on Salman Khan\u2026 https://t.co/O93MEqgY0W", 
+    "ts": 1522975094.0
+  }, 
+  {
+    "rating": 0.0, 
+    "text": "RT @Sports_NDTV: #GC2018, Women's Pool A hockey match: Rani Rampal scores as India lead 3-1 against Malaysia\n\n#GC2018hockey\n\nLive: https://\u2026", 
+    "ts": 1522975058.0
+  }, 
+  {
+    "rating": 0.5, 
+    "text": "This is a news alert. More details to follow.  #JustIn #NDTVNews https://t.co/V0iFqTdiPW", 
+    "ts": 1522974978.0
+  }, 
+  {
+    "rating": 0.45555555555555555, 
+    "text": "RT @Sports_NDTV: #GC2018: India's #DeepakLather successfully lifts 155 kg in his first Clean and Jerk attempt\n\n#GC2018Weightlifting\n\nLive:\u2026", 
+    "ts": 1522974938.0
+  }, 
+  {
+    "rating": 0.0, 
+    "text": "Firecrackers ban case: Supreme Court adjourned the matter for further hearing till May 8. Central government has so\u2026 https://t.co/QSeWGDj9Y0", 
+    "ts": 1522974611.0
+  }, 
+  {
+    "rating": 0.0, 
+    "text": "US approves $1.31 billion artillery sale to Saudi Arabia https://t.co/ljg88aUWom https://t.co/nkUVQcHztW", 
+    "ts": 1522974600.0
+  }, 
+  {
+    "rating": 0.4, 
+    "text": "RT @Gadgets360: What if We Paid for Facebook - Instead of Letting It Spy on Us for Free? https://t.co/r2aXAY5EiB", 
+    "ts": 1522974569.0
+  }, 
+  {
+    "rating": 0.2, 
+    "text": "#JustIn | BJP MPs to observe fast on April 12 to protest the impasse in parliament \"caused\" by Congress: Union Mini\u2026 https://t.co/jEs8nioDvm", 
+    "ts": 1522974562.0
+  }, 
+  {
+    "rating": 0.0, 
+    "text": "RT @Sports_NDTV: India vs Scotland, Badminton Mixed Team Event, Group A: The pair of Ashwini Ponappa and N Sikki Reddy give India an unassa\u2026", 
+    "ts": 1522974471.0
+  }, 
+  {
+    "rating": 0.0, 
+    "text": "Lead story now on https://t.co/Fbzw6mR9Q5: https://t.co/U6sIWr8yQB\n\n#NDTVLeadStory #SalmanKhan\u2026 https://t.co/wFWuoS68KQ", 
+    "ts": 1522974410.0
+  }, 
+  {
+    "rating": 0.13636363636363635, 
+    "text": "#BudgetSession | Rajya Sabha adjourned indefinitely \n\nTrack LIVE updates: https://t.co/uHWqpMjpo1 https://t.co/lqK0a6c2A3", 
+    "ts": 1522974396.0
+  }, 
+  {
+    "rating": 0.21212121212121213, 
+    "text": "RT @Gadgets360: In this week's entertainment guide: A Quiet Place, Legion, @KaceyMusgraves' new album, and more https://t.co/07zlN8rC09 htt\u2026", 
+    "ts": 1522974306.0
+  }, 
+  {
+    "rating": 0.5, 
+    "text": "This is a news alert. More details to follow.  #JustIn #NDTVNews https://t.co/dFXe610fSi", 
+    "ts": 1522974265.0
+  }, 
+  {
+    "rating": 0.0, 
+    "text": "RT @moviesndtv: Why Manushi Chhillar Was Asked About Kareena Kapoor And What She Said In Response https://t.co/xsNvHKhAwe https://t.co/Zyoa\u2026", 
+    "ts": 1522974220.0
+  }, 
+  {
+    "rating": -0.4, 
+    "text": "\"All behind me now\" Commonwealth Games dancer laughs off viral bum flash\nhttps://t.co/bjR5ERdQNI\n\n#GC2018 #CWG2018 https://t.co/UGBhTrks6e", 
+    "ts": 1522974062.0
+  }, 
+  {
+    "rating": 0.0, 
+    "text": "#BudgetSession | Lok Sabha adjourned indefinitely", 
+    "ts": 1522973974.0
+  }, 
+  {
+    "rating": 0.0, 
+    "text": "RT @Sports_NDTV: #GC2018, Women's Pool A hockey match: India lead Malaysia 2-1 at the end of the third quarter\n\n#GC2018hockey\n\nLive: https:\u2026", 
+    "ts": 1522973777.0
+  }, 
+  {
+    "rating": 0.0, 
+    "text": "RT @Sports_NDTV: #CommonwealthGames 2018: India boxer #NamanTanwar storms into men's 91 kg quarters\n\n#GC2018 #CWG2018 \n\nREAD: https://t.co/\u2026", 
+    "ts": 1522973673.0
+  }, 
+  {
+    "rating": 0.25, 
+    "text": "RT @moviesndtv: Review: \u201c@irrfank is riveting in #Blackmail, a thriller about an urban marriage gone kaput,\u201d writes Saibal Chatterjee \u2013 2.5\u2026", 
+    "ts": 1522973491.0
+  }, 
+  {
+    "rating": 0.0, 
+    "text": "RT @Gadgets360: Apple's Redesigned Mac Pro Will Only Launch in 2019\nhttps://t.co/jswn0qOW9b", 
+    "ts": 1522973483.0
+  }, 
+  {
+    "rating": -0.05000000000000001, 
+    "text": "RT @Sports_NDTV: India vs Scotland, Badminton Mixed Team Event, Group A: The pair of Ashwini Ponappa and Sikki Reddy take the first game 21\u2026", 
+    "ts": 1522973479.0
+  }, 
+  {
+    "rating": 0.0, 
+    "text": "RT @Sports_NDTV: #GC2018, Women's Pool A hockey match: #GurjitKaur scores her second as India lead Malaysia 2-1\n\n#GC2018hockey\n\nLive: https\u2026", 
+    "ts": 1522973374.0
+  }, 
+  {
+    "rating": -0.26666666666666666, 
+    "text": "At least 30 students fall ill following breakfast at school canteen in Noida https://t.co/HfhtJfkSRQ https://t.co/JZ83vO27Xe", 
+    "ts": 1522973131.0
+  }, 
+  {
+    "rating": 0.2, 
+    "text": "Opposition parties responsible for violence during Dalit stir: Keshav Prasad Maurya https://t.co/HdXbbM0Ajt https://t.co/IR5uV1qP0d", 
+    "ts": 1522972862.0
+  }, 
+  {
+    "rating": -0.3, 
+    "text": "RT @Sports_NDTV: #GC2018: India's Vikram Malhotra loses 6-11, 11-8, 6-11, 6-11 to England's Nick Matthew in the #GC2018Squash Men's Singles\u2026", 
+    "ts": 1522972814.0
+  }, 
+  {
+    "rating": 0.0, 
+    "text": "Lalu Yadav's son Tej Pratap to marry Aishwarya Roy. Details here https://t.co/rgIzD9JhxY https://t.co/I00TKwvyX2", 
+    "ts": 1522972801.0
+  }, 
+  {
+    "rating": 0.0, 
+    "text": "#Apple said to be developing screens that let you control your phone without tapping or swiping\u2026 https://t.co/rWzlMWYzUz", 
+    "ts": 1522972797.0
+  }, 
+  {
+    "rating": 0.5, 
+    "text": "Top stories now on https://t.co/Fbzw6mR9Q5 \n\n#NDTVTopStories https://t.co/owSECx2sPd", 
+    "ts": 1522972770.0
+  }, 
+  {
+    "rating": 0.0, 
+    "text": "Nepal Prime Minister KP Sharma Oli arrives in India on a three day state visit, received by Home Minister Rajnath S\u2026 https://t.co/EfcKVGkjU3", 
+    "ts": 1522972698.0
+  }, 
+  {
+    "rating": 0.0, 
+    "text": "RT @Sports_NDTV: #GC2018, Women's Pool A hockey match: India lead Malaysia 1-0 at half-time\n\n#GC2018hockey\n\nLive: https://t.co/PmLNYihNxP h\u2026", 
+    "ts": 1522972483.0
+  }, 
+  {
+    "rating": 0.0, 
+    "text": "RT @Sports_NDTV: India take 2-0 lead in mixed team badminton event against Scotland as #KidambiSrikanth outclasses Kieran Merrilles 21-18,\u2026", 
+    "ts": 1522972471.0
+  }, 
+  {
+    "rating": 0.0, 
+    "text": "RT @Gadgets360: Amazon's Lord of the Rings Will Reportedly Cost a Billion in Five Seasons https://t.co/0Uk416jUNy https://t.co/JUY8WDRy7M", 
+    "ts": 1522972463.0
+  }, 
+  {
+    "rating": 0.0, 
+    "text": "\u26a1\ufe0f Salman Khan, convicted in #BlackBuckPoachingCase, has been put up in barrack number 2 of #JodhpurCentralJail \n\nhttps://t.co/oj3tQnYe1y", 
+    "ts": 1522972357.0
+  }, 
+  {
+    "rating": 0.0, 
+    "text": "#BlackBuckPoachingCase | Police said Salman Khan's family could meet him once a week, but given that his bail reque\u2026 https://t.co/3w8bXjHtrj", 
+    "ts": 1522972133.0
+  }, 
+  {
+    "rating": 0.29545454545454547, 
+    "text": "RT @Sports_NDTV: #GC2018: In his second Snatch attempt, India's #DeepakLather successfully lifts 136 kg\n\n#GC2018Weightlifting \n\nLive: https\u2026", 
+    "ts": 1522972038.0
+  }, 
+  {
+    "rating": 0.2, 
+    "text": "China ready to pay 'any cost' in trade war: Ministry of Commerce (AFP)", 
+    "ts": 1522971776.0
+  }, 
+  {
+    "rating": 0.0, 
+    "text": "\"Yesterday I got threatening SMSes and internet calls warning me not to appear for Salman Khan in bail hearing toda\u2026 https://t.co/I90rwP3Fb0", 
+    "ts": 1522971773.0
+  }, 
+  {
+    "rating": 0.35714285714285715, 
+    "text": "Telugu Desam Party (TDP) MPs protest in parliament premises demanding special category status for Andhra Pradesh (A\u2026 https://t.co/HsHpFdp9yy", 
+    "ts": 1522971721.0
+  }, 
+  {
+    "rating": 0.19318181818181818, 
+    "text": "RT @Sports_NDTV: #GC2018: India's #DeepakLather lifts 132 kg in his first Snatch attempt\n\n#GC2018Weightlifting \n\nLive: https://t.co/PmLNYih\u2026", 
+    "ts": 1522971701.0
+  }, 
+  {
+    "rating": -0.03333333333333335, 
+    "text": "RT @Sports_NDTV: India vs Scotland, Badminton Mixed Team Event, Group A: #KidambiSrikanth wins the opening game 21-18 vs Kieran Merrilees.\u2026", 
+    "ts": 1522971604.0
+  }, 
+  {
+    "rating": 0.3181818181818182, 
+    "text": "2018 Commonwealth Games | Here\u2019s a look at latest medal tally on Day 2 of #GC2018 #CWG2018\n\nTrack LIVE updates here\u2026 https://t.co/cX5rexsQim", 
+    "ts": 1522971503.0
+  }, 
+  {
+    "rating": 0.2, 
+    "text": "RT @Gadgets360: Xiaomi Redmi 5 Available in Open Sale on Amazon India Today https://t.co/chQ0ps84It", 
+    "ts": 1522971379.0
+  }, 
+  {
+    "rating": 0.0, 
+    "text": "RT @Gadgets360: RBI Bars Regulated Entities From Dealing in Cryptocurrencies Like Bitcoin https://t.co/lgVWyXpeQL", 
+    "ts": 1522971370.0
+  }, 
+  {
+    "rating": 0.1, 
+    "text": "Why Donald Trump went after Jeff Bezos: Two billionaires across a cultural divide\nhttps://t.co/aEQF0QK1Nd https://t.co/84zUeeRZaK", 
+    "ts": 1522971256.0
+  }, 
+  {
+    "rating": 0.3, 
+    "text": "In Delhi, robbers loot cash, jewellery worth Rs. 35 lakh at gunpoint https://t.co/n1GjC4YrGW https://t.co/Ygh6NfcKUi", 
+    "ts": 1522971174.0
+  }, 
+  {
+    "rating": -0.25, 
+    "text": "\"Zombie-like\" raccoons are terrorising residents of this small town https://t.co/gQ8cou2E5j https://t.co/tmtRrY7fm5", 
+    "ts": 1522971041.0
+  }, 
+  {
+    "rating": 0.075, 
+    "text": "Salman Khan, on first night in jail, refused 'dal-roti' dinner: report\nhttps://t.co/XxZ6NdlkHO https://t.co/thw69j8dLb", 
+    "ts": 1522970926.0
+  }, 
+  {
+    "rating": 0.0, 
+    "text": "After aborted \"#FakeNews\" order, centre turns focus on online media https://t.co/COkVH5YvQA https://t.co/c65cXUlppC", 
+    "ts": 1522970862.0
+  }, 
+  {
+    "rating": -0.30000000000000004, 
+    "text": "RT @Sports_NDTV: #GC2018: England's Nick Matthew beats India's #VikramMalhotra 11-6 in game one of the #GC2018Squash Men's Singles Round of\u2026", 
+    "ts": 1522970655.0
+  }, 
+  {
+    "rating": 0.0, 
+    "text": "RT @carandbike: .@audisport drops yet another teaser of the e-Tron Vision Gran Turismo ahead of its official unveil on April 9.\n\nhttps://t.\u2026", 
+    "ts": 1522970377.0
+  }, 
+  {
+    "rating": -0.2, 
+    "text": "RT @Gadgets360: Facebook's Sandberg Says 'a Few' Advertisers Paused Spending https://t.co/zSwtOSW1Fh", 
+    "ts": 1522970295.0
+  }, 
+  {
+    "rating": -0.2, 
+    "text": "RT @Sports_NDTV: #GC2018: Vikram Malhotra takes on Nick Matthew in Squash Men's Singles Round of 16\n\n#GC2018Squash\n\nLive: https://t.co/PmLN\u2026", 
+    "ts": 1522970231.0
+  }, 
+  {
+    "rating": 0.13636363636363635, 
+    "text": "RT @moviesndtv: #Quantico3 Trailer: @priyankachopra's 'New Beginning' Is Not What You Think It Is https://t.co/nRjJzOIUHt https://t.co/EpBo\u2026", 
+    "ts": 1522970174.0
+  }, 
+  {
+    "rating": 0.1, 
+    "text": "RT @Sports_NDTV: #GC2018, Women's Pool A hockey match: Gurjit Kaur scores as India take an early 1-0 lead against Malaysia\n\n#GC2018hockey\u2026", 
+    "ts": 1522970131.0
+  }, 
+  {
+    "rating": 0.125, 
+    "text": "RT @Sports_NDTV: India vs Scotland, Badminton Mixed Team Event, Group A: #SainaNehwal clinches the first match of the tie by beating #Julie\u2026", 
+    "ts": 1522969944.0
+  }, 
+  {
+    "rating": 0.0, 
+    "text": "RT @Sports_NDTV: #GC2018: India take on Malaysia in Women's Pool A hockey match\n\n#GC2018Hockey\n\nLive: https://t.co/PmLNYihNxP https://t.co/\u2026", 
+    "ts": 1522969709.0
+  }, 
+  {
+    "rating": -0.2333333333333333, 
+    "text": "RT @Sports_NDTV: India's Amritha Reghunath, Sonali Mayanglambam fail to qualify for medal round in Women's 3000m Individual Pursuit Cycling\u2026", 
+    "ts": 1522969515.0
+  }, 
+  {
+    "rating": -0.125, 
+    "text": "RT @moviesndtv: #BlackBuckPoachingCase: 'Salman Khan Will Come Out Stronger,' Tweet Varun Dhawan And Other Celebs https://t.co/1yRwzm91Il h\u2026", 
+    "ts": 1522969381.0
+  }, 
+  {
+    "rating": 0.5, 
+    "text": "RT @NDTVProfit: Top Banker Bonuses Are Said to Be Delayed Amid India Frauds https://t.co/r8NV94hfO0", 
+    "ts": 1522969366.0
+  }, 
+  {
+    "rating": 0.0, 
+    "text": "RT @Gadgets360: Facebook Being Investigated by UK Regulator Over Political Campaigning https://t.co/5IjBoTXqby", 
+    "ts": 1522969363.0
+  }, 
+  {
+    "rating": 0.0, 
+    "text": "Visuals from BJP parliamentary party meeting in Delhi (ANI) https://t.co/CsGhpOq6Bx", 
+    "ts": 1522969284.0
+  }, 
+  {
+    "rating": 0.5, 
+    "text": "Top stories now on https://t.co/Fbzw6mR9Q5 \n\n#NDTVTopStories https://t.co/zyjKYpaMTo", 
+    "ts": 1522969154.0
+  }, 
+  {
+    "rating": 0.0, 
+    "text": "Andhra Pradesh Chief Minister N Chandrababu Naidu in a teleconference with party MPs said, \"BJP is practising divid\u2026 https://t.co/mj9e0WAhmJ", 
+    "ts": 1522968784.0
+  }, 
+  {
+    "rating": 0.0, 
+    "text": "Andhra Pradesh Chief Minister N Chandrababu Naidu in a teleconference with party MPs today said \"BJP is running awa\u2026 https://t.co/CVVqpaVscZ", 
+    "ts": 1522968585.0
+  }, 
+  {
+    "rating": 0.13636363636363635, 
+    "text": "#JustIn | Judge arrives in court for hearing Salman Khan\u2019s bail plea #BlackBuckPoachingCase\n\nTrack LIVE updates her\u2026 https://t.co/MimD9MMRE0", 
+    "ts": 1522968564.0
+  }, 
+  {
+    "rating": -0.19166666666666665, 
+    "text": "For mess he and flock of seagulls left behind years ago, man begs forgiveness\nhttps://t.co/wEmmLtHp9G https://t.co/FWow673EKq", 
+    "ts": 1522968317.0
+  }, 
+  {
+    "rating": 0.0, 
+    "text": "Lead story now on https://t.co/Fbzw6mR9Q5: https://t.co/tkfeNLe6xy\n\n#NDTVLeadStory #BlackBuckPoachingCase\u2026 https://t.co/HpHvyJr6Qy", 
+    "ts": 1522968185.0
+  }, 
+  {
+    "rating": 0.0, 
+    "text": "Delhi: Prime Minister Narendra Modi and Home Minister Rajnath Singh arrive for BJP parliamentary party meeting (ANI) https://t.co/zloc8ei8pu", 
+    "ts": 1522967837.0
+  }, 
+  {
+    "rating": 0.0, 
+    "text": "RT @Sports_NDTV: #GC2018: Deepak Lather competes in Men's 69 kg #GC2018Weightlifting event\n\nLive: https://t.co/PmLNYihNxP", 
+    "ts": 1522967759.0
+  }, 
+  {
+    "rating": 0.06818181818181818, 
+    "text": "RT @Sports_NDTV: #GC2018: India take on Scotland in Badminton Mixed Team Event, Group A\n\n#GC2018Badminton \n\nLive: https://t.co/PmLNYihNxP h\u2026", 
+    "ts": 1522967652.0
+  }, 
+  {
+    "rating": 0.0, 
+    "text": "After aborted \"#FakeNews\" order, centre turns focus on online media https://t.co/QKUs6W44xh https://t.co/PxMscDpI5x", 
+    "ts": 1522967600.0
+  }, 
+  {
+    "rating": -0.25, 
+    "text": "\"Zombie-like\" raccoons are terrorising residents of this small town\nhttps://t.co/gQ8cou2E5j https://t.co/Img1tFrLtx", 
+    "ts": 1522967459.0
+  }, 
+  {
+    "rating": 0.8, 
+    "text": "RT @Sports_NDTV: #GC2018: India's #NamanTanwar advances to Men's 91kg quarter-finals after a routine win over Haruna Mhando of Tanzania\n\n#g\u2026", 
+    "ts": 1522967202.0
+  }, 
+  {
+    "rating": 0.0, 
+    "text": "RT @carandbike: .@Ducati_India receives increased demand for the #PanigaleV4 superbike in India and has therefore, started taking bookings\u2026", 
+    "ts": 1522967183.0
+  }, 
+  {
+    "rating": 0.0, 
+    "text": "Bike thieves, inspired by Bollywood movie \"Dhoom\", arrested in Delhi\nhttps://t.co/R6QrxkB0gW https://t.co/vvYXoeA0Uf", 
+    "ts": 1522966795.0
+  }, 
+  {
+    "rating": 0.0, 
+    "text": "WATCH | Ahead of BJP's mega celebration, massive traffic jams in Mumbai https://t.co/NUQRyq7xUk https://t.co/HyeOJG5iJk", 
+    "ts": 1522966704.0
+  }, 
+  {
+    "rating": -0.2, 
+    "text": "RT @Sports_NDTV: #GC2018: In boxing, Naman Tanwar is up against Haruna Mhando of United Republic of Tanzania in the Men's 91kg Round of 16\u2026", 
+    "ts": 1522966330.0
+  }, 
+  {
+    "rating": 0.2, 
+    "text": "Who makes the real Cuban rum? A dispute that has lasted for decades https://t.co/T91Be1juQ9 https://t.co/4l8UVibpU7", 
+    "ts": 1522966276.0
+  }, 
+  {
+    "rating": 0.0, 
+    "text": "\"You're playing with fire\": Russia to UK on spy poisoning row https://t.co/asKvWMli6V https://t.co/Lr9sPz8VBs", 
+    "ts": 1522966057.0
+  }, 
+  {
+    "rating": 0.13636363636363635, 
+    "text": "RT @Gadgets360: Does the new #Oppo F7 live up to its expectations? We find out. https://t.co/5IUcOoLH4W", 
+    "ts": 1522965642.0
+  }, 
+  {
+    "rating": 0.16818181818181818, 
+    "text": "RT @Gadgets360: Ola wants you to ride on its cabs without worrying, introduces new in-trip insurance with cover up to \u20b95 lakh. https://t.co\u2026", 
+    "ts": 1522965617.0
+  }, 
+  {
+    "rating": 0.5, 
+    "text": "Top stories now on https://t.co/Fbzw6mR9Q5 \n\n#NDTVTopStories https://t.co/IGSwU6v6OI", 
+    "ts": 1522965536.0
+  }, 
+  {
+    "rating": 0.0, 
+    "text": "Mohammed bin Salman: A reformist Prince who has shaken Saudi Arabia\nhttps://t.co/Rk8umZejg2 https://t.co/3V7wrVgFAa", 
+    "ts": 1522965510.0
+  }, 
+  {
+    "rating": 0.0, 
+    "text": "\"Perhaps I'm gullible\": Nitish Kumar's stinging takedown of Tejashwi Yadav https://t.co/QJKAjdKMww https://t.co/SuFRQtRcFj", 
+    "ts": 1522965503.0
+  }, 
+  {
+    "rating": 0.0, 
+    "text": "Lalu Yadav's Son Tej Pratap To Marry Aishwarya Roy. Details Here https://t.co/JgctYFPDG5 #NDTVNewsBeeps https://t.co/M8r9XWFCjR", 
+    "ts": 1522965433.0
+  }, 
+  {
+    "rating": 0.0, 
+    "text": "UP man bites off brother's nose, attacks father after denied money for alcohol https://t.co/o3UnTR5ZEo https://t.co/AoQK8JiRnD", 
+    "ts": 1522965337.0
+  }, 
+  {
+    "rating": 0.0, 
+    "text": "US approves $1.31 billion artillery sale to Saudi Arabia https://t.co/ljg88bcxfU https://t.co/pDqzD9OCAC", 
+    "ts": 1522965193.0
+  }, 
+  {
+    "rating": 0.0, 
+    "text": "TDP lawmakers stayed put after Rajya Sabha was adjourned. Marshalled out\nhttps://t.co/89SAy6TpK8 https://t.co/8RWlFpz8LV", 
+    "ts": 1522965145.0
+  }, 
+  {
+    "rating": 0.0, 
+    "text": "Trump seeks an additional $100 billion in tariffs against China in escalation of trade confrontation\u2026 https://t.co/JJYwJtiAKg", 
+    "ts": 1522965107.0
+  }
+]
